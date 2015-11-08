@@ -2,7 +2,7 @@
 
 ### 说明
 * froked from [neltseng/WooCommerce-Taiwan-Group-Translate](https://github.com/neltseng/WooCommerce-Taiwan-Group-Translate)
-* branch hitrust-zh-Hans
+* branch hitrust-zh-CN
 * 将繁体中文部分转换为简体中文
 * 感谢所有译者的贡献
 
