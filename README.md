@@ -1,7 +1,7 @@
 [![wc-tw](https://cloud.githubusercontent.com/assets/6985904/7554506/d7bc24b6-f75d-11e4-9a81-0c3257d99ffb.png)](http://www.facebook.com/groups/woocommercetaiwan)
 
 ### 说明
-* frok from [neltseng/WooCommerce-Taiwan-Group-Translate](https://github.com/neltseng/WooCommerce-Taiwan-Group-Translate)
+* froked from [neltseng/WooCommerce-Taiwan-Group-Translate](https://github.com/neltseng/WooCommerce-Taiwan-Group-Translate)
 * 将繁体中文部分转换为简体中文
 * 感谢所有译者的贡献
 
