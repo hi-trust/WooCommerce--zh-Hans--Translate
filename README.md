@@ -1,11 +1,13 @@
 [![wc-tw](https://cloud.githubusercontent.com/assets/6985904/7554506/d7bc24b6-f75d-11e4-9a81-0c3257d99ffb.png)](http://www.facebook.com/groups/woocommercetaiwan)
 
-### 说明
+# 说明
 * froked from [neltseng/WooCommerce-Taiwan-Group-Translate](https://github.com/neltseng/WooCommerce-Taiwan-Group-Translate)
 * branch hitrust-zh-Hans
 * 将繁体中文部分转换为简体中文
 * 感谢所有译者的贡献
 * 修正部分翻译错误
+
+-------------------以下为woocommerce-zh_TW版说明-------------------------
 
 ## WooCommerce 中文翻译修正版
  改进一些台湾中文的翻译问题
