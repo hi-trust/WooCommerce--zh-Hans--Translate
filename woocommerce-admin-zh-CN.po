@@ -51,7 +51,7 @@ msgid ""
 "variation for each and every possible combination of variation attributes "
 "(max 50 per run)."
 msgstr ""
-"你确定要连结所有的变化项目吗？这将会为每个可能的变化项目组合产生一个变化属性 "
+"你确定要连接所有的变化项目吗？这将会为每个可能的变化项目组合产生一个变化属性 "
 "(每次执行最多 50 个)"
 
 #: includes/admin/class-wc-admin-assets.php:181
@@ -64,7 +64,7 @@ msgstr "输入一个值 (固定或 %)"
 
 #: includes/admin/class-wc-admin-assets.php:183
 msgid "Are you sure you want to delete all variations? This cannot be undone."
-msgstr "你确定要删除所有变化类型吗？这项操作不可回复喔"
+msgstr "你确定要删除所有变化类型吗？这项操作不可恢复"
 
 #: includes/admin/class-wc-admin-assets.php:184
 msgid "Last warning, are you sure?"
@@ -78,7 +78,7 @@ msgstr "选择一张图片"
 
 #: includes/admin/class-wc-admin-assets.php:186
 msgid "Set variation image"
-msgstr "设定变化类型图片"
+msgstr "设置变化类型图片"
 
 #: includes/admin/class-wc-admin-assets.php:187
 msgid "variation added"
@@ -126,22 +126,22 @@ msgstr "请选择一些项目。"
 #: includes/admin/class-wc-admin-assets.php:215
 msgid ""
 "Are you sure you wish to process this refund? This action cannot be undone."
-msgstr "您确定希望要处理退费吗？此一动作无法回复"
+msgstr "您确定希望要处理退费吗？此动作无法回复"
 
 #: includes/admin/class-wc-admin-assets.php:216
 msgid ""
 "Are you sure you wish to delete this refund? This action cannot be undone."
-msgstr "您确定要删除此一退费？此一动作无法回复"
+msgstr "您确定要删除此一退费？此动作无法回复"
 
 #: includes/admin/class-wc-admin-assets.php:217
 msgid ""
 "Are you sure you wish to delete this tax column? This action cannot be "
 "undone."
-msgstr "您确定要删除此一行？此一动作无法回复"
+msgstr "您确定要删除此一行？此动作无法回复"
 
 #: includes/admin/class-wc-admin-assets.php:218
 msgid "Remove this item meta?"
-msgstr "移除这个项目的描述资讯？"
+msgstr "移除这个项目的描述信息？"
 
 #: includes/admin/class-wc-admin-assets.php:219
 msgid "Remove this attribute?"
@@ -210,26 +210,26 @@ msgid ""
 "Calculate line taxes? This will calculate taxes based on the customers "
 "country. If no billing/shipping is set it will use the store base country."
 msgstr ""
-"计算行税？这将会根据顾客的国家计算税金，如果没有设定帐单/运送的话它会用商店所"
+"计算纳税？这将会根据顾客的国家计算纳税额，如果没有设置帐单/配送的话它会用商店所"
 "在国家"
 
 #: includes/admin/class-wc-admin-assets.php:230
 msgid ""
 "Copy billing information to shipping information? This will remove any "
 "currently entered shipping information."
-msgstr "複製帐单资讯到运送资讯吗？这将会移除目前已输入的运送资讯"
+msgstr "复制帐单信息到配送信息吗？这将会移除目前已输入的配送信息"
 
 #: includes/admin/class-wc-admin-assets.php:231
 msgid ""
 "Load the customer's billing information? This will remove any currently "
 "entered billing information."
-msgstr "读入顾客的帐单资讯吗？这将会移除目前已输入的帐单资讯"
+msgstr "读入顾客的帐单信息吗？这将会移除目前已输入的帐单信息"
 
 #: includes/admin/class-wc-admin-assets.php:232
 msgid ""
 "Load the customer's shipping information? This will remove any currently "
 "entered shipping information."
-msgstr "读入顾客的运送资讯吗？这将会移除目前已输入的运送资讯"
+msgstr "读入顾客的配送信息吗？这将会移除目前已输入的配送信息"
 
 #: includes/admin/class-wc-admin-assets.php:233
 #: includes/admin/class-wc-admin-post-types.php:122
@@ -249,8 +249,8 @@ msgid ""
 "or billing email is not set. Ensure the billing email is set, and the order "
 "has been saved."
 msgstr ""
-"无法赋予权限 - 这个使用者可能已经拥有这个档案的权限，或者帐单电子邮件没有设"
-"定。请确认帐单电子邮件已设定并且订单已储存"
+"无法授权 - 这个使用者可能已经拥有这个文件的权限，或者帐单电子邮件没有设"
+"置。请确认帐单电子邮件已设置并且订单已保存"
 
 #: includes/admin/class-wc-admin-assets.php:261
 msgid "Are you sure you want to revoke access to this download?"
@@ -258,7 +258,7 @@ msgstr "你确定要撤销这个下载权限？"
 
 #: includes/admin/class-wc-admin-assets.php:262
 msgid "You cannot add the same tax rate twice!"
-msgstr "你不能新增相同的税率两次"
+msgstr "你不能添加相同的税率"
 
 #: includes/admin/class-wc-admin-assets.php:263
 msgid ""
@@ -310,19 +310,19 @@ msgstr "代称"
 #: includes/admin/class-wc-admin-attributes.php:437
 msgid ""
 "Unique slug/reference for the attribute; must be shorter than 28 characters."
-msgstr "属性唯一的代称/参考，长度需少于 28 字元"
+msgstr "属性唯一的代称/参考，长度需少于 28 字符"
 
 #: includes/admin/class-wc-admin-attributes.php:290
 #: includes/admin/class-wc-admin-attributes.php:441
 msgid "Enable Archives?"
-msgstr "启用彙整?"
+msgstr "启用存档?"
 
 #: includes/admin/class-wc-admin-attributes.php:294
 #: includes/admin/class-wc-admin-attributes.php:443
 msgid ""
 "Enable this if you want this attribute to have product archives in your "
 "store."
-msgstr "如果你希望商店商品的此一属性有彙整请启用此项"
+msgstr "如果你希望商店商品的此属性有存档请启用此项"
 
 #: includes/admin/class-wc-admin-attributes.php:299
 #: includes/admin/class-wc-admin-attributes.php:352
@@ -349,14 +349,14 @@ msgid ""
 "allows manual entry whereas <strong>select</strong> allows pre-configured "
 "terms in a drop-down list."
 msgstr ""
-"决定你如何选择商品的属性，在管理面板 -> 商品 -> 商品资料 -> 属性 -> 值裡面的 "
-"<strong>文字</strong> 让你手动输入属性 <strong>选择</strong> 允许选取预先规划"
-"项目的下拉选单."
+"决定你如何选择商品的属性，在管理面板 -> 商品 -> 商品资料 -> 属性 -> 值里面的 "
+"<strong>文字</strong> 让你手动输入属性 <strong>选择</strong> 允许选取事先配置"
+"项目的下拉列表."
 
 #: includes/admin/class-wc-admin-attributes.php:312
 #: includes/admin/class-wc-admin-attributes.php:457
 msgid "Default sort order"
-msgstr "预设排列顺序"
+msgstr "默认排列顺序"
 
 #: includes/admin/class-wc-admin-attributes.php:316
 #: includes/admin/class-wc-admin-attributes.php:382
@@ -374,7 +374,7 @@ msgstr "名称 (数值的)"
 #: includes/admin/class-wc-admin-attributes.php:379
 #: includes/admin/class-wc-admin-attributes.php:462
 msgid "Term ID"
-msgstr "项目缟号"
+msgstr "项目编号"
 
 #: includes/admin/class-wc-admin-attributes.php:321
 #: includes/admin/class-wc-admin-attributes.php:464
@@ -382,7 +382,7 @@ msgid ""
 "Determines the sort order of the terms on the frontend shop product pages. "
 "If using custom ordering, you can drag and drop the terms in this attribute."
 msgstr ""
-"决定项目在前台商品页面的排列顺序，如果使用自订排序的话，你可以拖拉项目来调整"
+"决定项目在前台商品页面的排列顺序，如果使用自订排序的话，你可以拖拽项目来调整"
 "顺序"
 
 #: includes/admin/class-wc-admin-attributes.php:326
@@ -430,7 +430,7 @@ msgstr "公开"
 
 #: includes/admin/class-wc-admin-attributes.php:411
 msgid "Configure terms"
-msgstr "规划项目"
+msgstr "配置项目"
 
 #: includes/admin/class-wc-admin-attributes.php:415
 msgid "No attributes currently exist."
@@ -446,7 +446,7 @@ msgid ""
 "can use these attributes in the shop sidebar using the \"layered nav\" "
 "widgets. Please note: you cannot rename an attribute later on."
 msgstr ""
-"属性让你可以定义额外的商品资讯，例如：尺寸或颜色。你可以在商店边栏使用\"分层"
+"属性让你可以定义额外的商品信息，例如：尺寸或颜色。你可以在商店边栏使用\"分层"
 "导览\"小工具来使用这些属性。请注意：你不能在稍后变更属性名称"
 
 #: includes/admin/class-wc-admin-attributes.php:467
@@ -508,19 +508,19 @@ msgstr "尚无商品评论。"
 
 #: includes/admin/class-wc-admin-duplicate-product.php:47
 msgid "Make a duplicate from this product"
-msgstr "複製此一商品"
+msgstr "复制此商品"
 
 #: includes/admin/class-wc-admin-duplicate-product.php:48
 msgid "Duplicate"
-msgstr "複製"
+msgstr "复制"
 
 #: includes/admin/class-wc-admin-duplicate-product.php:74
 msgid "Copy to a new draft"
-msgstr "複製为新的草稿"
+msgstr "复制为新的草稿"
 
 #: includes/admin/class-wc-admin-duplicate-product.php:85
 msgid "No product to duplicate has been supplied!"
-msgstr "没有提供要複製的商品！"
+msgstr "没有提供要复制的商品！"
 
 #: includes/admin/class-wc-admin-duplicate-product.php:107
 msgid "Product creation failed, could not find original product:"
@@ -528,7 +528,7 @@ msgstr "商品建立失败。无法找到原商品 :"
 
 #: includes/admin/class-wc-admin-duplicate-product.php:133
 msgid "(Copy)"
-msgstr "(複製)"
+msgstr "(复制)"
 
 #: includes/admin/class-wc-admin-help.php:41
 msgid "Documentation"
@@ -552,7 +552,7 @@ msgstr "开发者 API 文件"
 
 #: includes/admin/class-wc-admin-help.php:52
 msgid "Support"
-msgstr "支援"
+msgstr "支持"
 
 #: includes/admin/class-wc-admin-help.php:55
 msgid ""
@@ -561,7 +561,7 @@ msgid ""
 "WooThemes, or if you are a WooThemes customer, you can %suse our helpdesk%s."
 msgstr ""
 "在 %s阅读文件%s之后，当你遇到问题如果还需要进一步协助的话你可以使用我们的 %s"
-"社群论坛%s。如要寻求 WooThemes 出品的付费外挂协助。或者如果你是 WooThemes 的"
+"社群论坛%s。如要寻求 WooThemes 出品的付费插件。或者如果你是 WooThemes 的"
 "客户的话。也可以利用%s我们的服务台%s"
 
 #: includes/admin/class-wc-admin-help.php:57
@@ -580,15 +580,15 @@ msgstr "系统状态"
 
 #: includes/admin/class-wc-admin-help.php:59
 msgid "WooThemes Community Support"
-msgstr "WooThemes 社群支援"
+msgstr "WooThemes 社区支持"
 
 #: includes/admin/class-wc-admin-help.php:59
 msgid "WooThemes Customer Support"
-msgstr "WooThemes 客户支援"
+msgstr "WooThemes 客户支持"
 
 #: includes/admin/class-wc-admin-help.php:65
 msgid "Found a bug?"
-msgstr "发现臭虫？"
+msgstr "发现漏洞？"
 
 #: includes/admin/class-wc-admin-help.php:68
 msgid ""
@@ -597,17 +597,17 @@ msgid ""
 "\">contribution guide</a> prior to submitting your report. Be as descriptive "
 "as possible and please include your <a href=\"%s\">system status report</a>."
 msgstr ""
-"如果你发现 WooCommerce 核心内有臭虫的话，你可以在 <a href=\"%s\">Github "
-"issues</a> 开一张票，在发送报告之前请确认你看过 <a href=\"%s\">贡献指南</a>，"
-"请儘可能说明清楚以及附上你的 <a href=\"%s\">系统状态报表</a>."
+"如果你发现 WooCommerce 核心有漏洞的话，你可以在 <a href=\"%s\">Github "
+"issues</a> 创建ticket，在发送报告之前请确认你看过 <a href=\"%s\">贡献指南</a>，"
+"请尽可能说明清楚以及附上你的 <a href=\"%s\">系统状态报表</a>."
 
 #: includes/admin/class-wc-admin-help.php:70
 msgid "Report a bug"
-msgstr "回报臭虫"
+msgstr "报告漏洞"
 
 #: includes/admin/class-wc-admin-help.php:75
 msgid "For more information:"
-msgstr "更多资讯："
+msgstr "更多信息："
 
 #: includes/admin/class-wc-admin-help.php:76
 #: includes/admin/class-wc-admin-welcome.php:42
@@ -616,19 +616,19 @@ msgstr "关于 WooCommerce"
 
 #: includes/admin/class-wc-admin-help.php:77
 msgid "WordPress.org Project"
-msgstr "WordPress.org 专案"
+msgstr "WordPress.org 项目"
 
 #: includes/admin/class-wc-admin-help.php:78
 msgid "Github Project"
-msgstr "Github 专案"
+msgstr "Github 项目"
 
 #: includes/admin/class-wc-admin-help.php:79
 msgid "Official Themes"
-msgstr "官方的佈景主题"
+msgstr "官方主题"
 
 #: includes/admin/class-wc-admin-help.php:80
 msgid "Official Extensions"
-msgstr "官方的附加软体"
+msgstr "官方扩展"
 
 #: includes/admin/class-wc-admin-importers.php:34
 msgid "WooCommerce Tax Rates (CSV)"
@@ -636,11 +636,11 @@ msgstr "WooCommerce 税率 (CSV)"
 
 #: includes/admin/class-wc-admin-importers.php:34
 msgid "Import <strong>tax rates</strong> to your store via a csv file."
-msgstr "从 csv 档案汇入<strong>税率</strong>至商店中。"
+msgstr "从 csv 文件汇入<strong>税率</strong>至商店中。"
 
 #: includes/admin/class-wc-admin-menus.php:57
 msgid "Shipping Classes"
-msgstr "运送级距"
+msgstr "配送类型"
 
 #: includes/admin/class-wc-admin-menus.php:67
 msgid "Reports"
@@ -652,7 +652,7 @@ msgstr "销售报表"
 
 #: includes/admin/class-wc-admin-menus.php:77
 msgid "WooCommerce Settings"
-msgstr "WooCommerce 设定"
+msgstr "WooCommerce 设置"
 
 #: includes/admin/class-wc-admin-menus.php:77
 #: includes/admin/class-wc-admin-welcome.php:218
@@ -660,16 +660,16 @@ msgstr "WooCommerce 设定"
 #: includes/admin/settings/class-wc-settings-shipping.php:236
 #: includes/admin/views/html-admin-page-status-report.php:383
 msgid "Settings"
-msgstr "设定"
+msgstr "设置"
 
 #: includes/admin/class-wc-admin-menus.php:102
 #: includes/admin/views/html-admin-page-addons.php:20
 msgid "WooCommerce Add-ons/Extensions"
-msgstr "WooCommerce 附加/扩充软体"
+msgstr "WooCommerce 插件/扩展"
 
 #: includes/admin/class-wc-admin-menus.php:102
 msgid "Add-ons"
-msgstr "附加软体"
+msgstr "插件"
 
 #: includes/admin/class-wc-admin-menus.php:238
 msgid "WooCommerce Endpoints"
@@ -738,26 +738,26 @@ msgstr "商品评论"
 
 #: includes/admin/class-wc-admin-permalink-settings.php:36
 msgid "Product permalink base"
-msgstr "商品固定网址起点"
+msgstr "商品永久网址依据"
 
 #: includes/admin/class-wc-admin-permalink-settings.php:41
 msgid "Product category base"
-msgstr "商品分类起点"
+msgstr "商品分类依据"
 
 #: includes/admin/class-wc-admin-permalink-settings.php:48
 msgid "Product tag base"
-msgstr "商品标籤起点"
+msgstr "商品标签依据"
 
 #: includes/admin/class-wc-admin-permalink-settings.php:55
 msgid "Product attribute base"
-msgstr "商品属性起点"
+msgstr "商品属性依据"
 
 #: includes/admin/class-wc-admin-permalink-settings.php:96
 msgid ""
 "These settings control the permalinks used for products. These settings only "
 "apply when <strong>not using \"default\" permalinks above</strong>."
 msgstr ""
-"这些设定控制商品所使用的固定网址。这些设定仅在 <strong>上面没有使用 \"预设"
+"这些设置控制商品所使用的永久网址。这些设置仅在 <strong>上面没有使用 \"默认"
 "\"网址时有效</strong>."
 
 #: includes/admin/class-wc-admin-permalink-settings.php:116
@@ -766,7 +766,7 @@ msgstr ""
 #: includes/admin/settings/class-wc-settings-checkout.php:230
 #: includes/admin/settings/class-wc-settings-shipping.php:203
 msgid "Default"
-msgstr "预设"
+msgstr "默认"
 
 #: includes/admin/class-wc-admin-permalink-settings.php:120
 #: includes/admin/reports/class-wc-report-stock.php:155
@@ -775,22 +775,22 @@ msgstr "商品"
 
 #: includes/admin/class-wc-admin-permalink-settings.php:125
 msgid "Shop base"
-msgstr "商店起点"
+msgstr "商店依据"
 
 #: includes/admin/class-wc-admin-permalink-settings.php:129
 msgid "Shop base with category"
-msgstr "商品包含分类起点"
+msgstr "商品包含分类依据"
 
 #: includes/admin/class-wc-admin-permalink-settings.php:135
 msgid "Custom Base"
-msgstr "自订起点"
+msgstr "自订依据"
 
 #: includes/admin/class-wc-admin-permalink-settings.php:137
 msgid ""
 "Enter a custom base to use. A base <strong>must</strong> be set or WordPress "
 "will use default instead."
 msgstr ""
-"输入使用的顾客起点，<strong>一定要</strong>设定起点否则 WordPress 将使用预设"
+"输入使用的顾客依据，<strong>一定要</strong>设置依据否则 WordPress 将使用默认"
 "值取代"
 
 #: includes/admin/class-wc-admin-post-types.php:108
@@ -826,7 +826,7 @@ msgstr "分类"
 
 #: includes/admin/class-wc-admin-post-types.php:121
 msgid "Tags"
-msgstr "标籤"
+msgstr "标签"
 
 #: includes/admin/class-wc-admin-post-types.php:124
 #: includes/admin/class-wc-admin-post-types.php:163
@@ -856,7 +856,7 @@ msgstr "优惠券金额"
 
 #: includes/admin/class-wc-admin-post-types.php:141
 msgid "Description"
-msgstr "商品资讯"
+msgstr "商品信息"
 
 #: includes/admin/class-wc-admin-post-types.php:142
 msgid "Product IDs"
@@ -894,7 +894,7 @@ msgstr "配送至"
 
 #: includes/admin/class-wc-admin-post-types.php:161
 msgid "Customer Message"
-msgstr "顾客讯息"
+msgstr "顾客信息"
 
 #: includes/admin/class-wc-admin-post-types.php:162
 msgid "Order Notes"
@@ -930,26 +930,26 @@ msgstr "快速&nbsp;编辑"
 #: includes/admin/class-wc-admin-post-types.php:374
 #: includes/admin/class-wc-admin-webhooks-table-list.php:104
 msgid "Restore this item from the Trash"
-msgstr "从垃圾桶中回复此项目"
+msgstr "从回收站中恢复此项目"
 
 #: includes/admin/class-wc-admin-post-types.php:217
 #: includes/admin/class-wc-admin-post-types.php:374
 #: includes/admin/class-wc-admin-webhooks-table-list.php:104
 #: includes/admin/class-wc-admin-webhooks-table-list.php:246
 msgid "Restore"
-msgstr "回复"
+msgstr "恢复"
 
 #: includes/admin/class-wc-admin-post-types.php:219
 #: includes/admin/class-wc-admin-post-types.php:376
 #: includes/admin/class-wc-admin-webhooks-table-list.php:106
 msgid "Move this item to the Trash"
-msgstr "将此项目移至垃圾桶"
+msgstr "将此项目移至回收站"
 
 #: includes/admin/class-wc-admin-post-types.php:219
 #: includes/admin/class-wc-admin-post-types.php:376
 #: includes/admin/class-wc-admin-webhooks-table-list.php:106
 msgid "Trash"
-msgstr "垃圾桶"
+msgstr "回收站"
 
 #: includes/admin/class-wc-admin-post-types.php:223
 #: includes/admin/class-wc-admin-post-types.php:380
@@ -976,14 +976,14 @@ msgstr "预览"
 
 #: includes/admin/class-wc-admin-post-types.php:231
 msgid "View &#8220;%s&#8221;"
-msgstr "检视 &#8220;%s&#8221;"
+msgstr "查看 &#8220;%s&#8221;"
 
 #: includes/admin/class-wc-admin-post-types.php:231
 #: includes/admin/class-wc-admin-post-types.php:645
 #: includes/admin/reports/class-wc-report-stock.php:133
 #: includes/admin/views/html-admin-page-status-logs.php:24
 msgid "View"
-msgstr "检视"
+msgstr "查看"
 
 #: includes/admin/class-wc-admin-post-types.php:282
 msgid "Grouped"
@@ -1174,7 +1174,7 @@ msgstr "显示所有类型"
 
 #: includes/admin/class-wc-admin-post-types.php:1524
 msgid "Search for a customer&hellip;"
-msgstr "搜寻顾客&hellip;"
+msgstr "搜索顾客&hellip;"
 
 #: includes/admin/class-wc-admin-post-types.php:1687
 msgid "Product updated. <a href=\"%s\">View Product</a>"
@@ -1184,13 +1184,13 @@ msgstr "商品已更新。<a href=\"%s\">查看商品</a>"
 #: includes/admin/class-wc-admin-post-types.php:1703
 #: includes/admin/class-wc-admin-post-types.php:1719
 msgid "Custom field updated."
-msgstr "自订栏位已更新。"
+msgstr "自订字段已更新。"
 
 #: includes/admin/class-wc-admin-post-types.php:1689
 #: includes/admin/class-wc-admin-post-types.php:1704
 #: includes/admin/class-wc-admin-post-types.php:1720
 msgid "Custom field deleted."
-msgstr "自订栏位已删除。"
+msgstr "自订字段已删除。"
 
 #: includes/admin/class-wc-admin-post-types.php:1690
 msgid "Product updated."
@@ -1198,7 +1198,7 @@ msgstr "商品已更新。"
 
 #: includes/admin/class-wc-admin-post-types.php:1691
 msgid "Product restored to revision from %s"
-msgstr "商品已回复到 %s 之版本。"
+msgstr "商品已恢复到 %s 之版本。"
 
 #: includes/admin/class-wc-admin-post-types.php:1692
 msgid "Product published. <a href=\"%s\">View Product</a>"
@@ -1206,7 +1206,7 @@ msgstr "商品已发表。<a href=\"%s\">查看商品</a>"
 
 #: includes/admin/class-wc-admin-post-types.php:1693
 msgid "Product saved."
-msgstr "商品已储存。"
+msgstr "商品已保存。"
 
 #: includes/admin/class-wc-admin-post-types.php:1694
 msgid "Product submitted. <a target=\"_blank\" href=\"%s\">Preview Product</a>"
@@ -1217,7 +1217,7 @@ msgid ""
 "Product scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
 "\"%2$s\">Preview Product</a>"
 msgstr ""
-"商品排程于: <strong>%1$s</strong> 发表， <a target=\"_blank\" href=\"%2$s\">"
+"商品安排于: <strong>%1$s</strong> 发表， <a target=\"_blank\" href=\"%2$s\">"
 "预览商品</a>"
 
 #: includes/admin/class-wc-admin-post-types.php:1696
@@ -1247,7 +1247,7 @@ msgstr "订单已回复到 %s 之版本"
 
 #: includes/admin/class-wc-admin-post-types.php:1708
 msgid "Order saved."
-msgstr "订单已储存。"
+msgstr "订单已保存。"
 
 #: includes/admin/class-wc-admin-post-types.php:1709
 msgid "Order submitted."
@@ -1255,7 +1255,7 @@ msgstr "订单已送出。"
 
 #: includes/admin/class-wc-admin-post-types.php:1710
 msgid "Order scheduled for: <strong>%1$s</strong>."
-msgstr "订单已排程于：<strong>%1$s</strong> 发表。"
+msgstr "订单已安排于：<strong>%1$s</strong> 发表。"
 
 #: includes/admin/class-wc-admin-post-types.php:1712
 msgid "Order draft updated."
@@ -1277,7 +1277,7 @@ msgstr "优惠券已回复到 %s 之版本。"
 
 #: includes/admin/class-wc-admin-post-types.php:1724
 msgid "Coupon saved."
-msgstr "优惠券已储存。"
+msgstr "优惠券已保存。"
 
 #: includes/admin/class-wc-admin-post-types.php:1725
 msgid "Coupon submitted."
@@ -1285,7 +1285,7 @@ msgstr "优惠券已送出。"
 
 #: includes/admin/class-wc-admin-post-types.php:1726
 msgid "Coupon scheduled for: <strong>%1$s</strong>."
-msgstr "优惠券已排程于：<strong>%1$s</strong> 发表。"
+msgstr "优惠券已安排于：<strong>%1$s</strong> 发表。"
 
 #: includes/admin/class-wc-admin-post-types.php:1728
 msgid "Coupon draft updated."
@@ -1313,19 +1313,19 @@ msgstr "上传这个到 %s"
 
 #: includes/admin/class-wc-admin-post-types.php:1957
 msgid "Catalog/search"
-msgstr "型录/搜寻"
+msgstr "目录/搜索"
 
 #: includes/admin/class-wc-admin-post-types.php:1958
 #: includes/admin/views/html-bulk-edit-product.php:185
 #: includes/admin/views/html-quick-edit-product.php:142
 msgid "Catalog"
-msgstr "型录"
+msgstr "目录"
 
 #: includes/admin/class-wc-admin-post-types.php:1959
 #: includes/admin/views/html-bulk-edit-product.php:186
 #: includes/admin/views/html-quick-edit-product.php:143
 msgid "Search"
-msgstr "搜寻"
+msgstr "搜索"
 
 #: includes/admin/class-wc-admin-post-types.php:1960
 #: includes/admin/views/html-bulk-edit-product.php:187
@@ -1335,17 +1335,17 @@ msgstr "隐藏"
 
 #: includes/admin/class-wc-admin-post-types.php:1964
 msgid "Catalog visibility:"
-msgstr "型录可见度:"
+msgstr "目录可见度:"
 
 #: includes/admin/class-wc-admin-post-types.php:1980
 msgid ""
 "Define the loops this product should be visible in. The product will still "
 "be accessible directly."
-msgstr "设定商品在型录中可见度，直接连结商品还是可以观看。"
+msgstr "设置商品在目录中可见度，直接连接商品还是可以观看。"
 
 #: includes/admin/class-wc-admin-post-types.php:1986
 msgid "Enable this option to feature this product."
-msgstr "将此商品设定为特色商品。"
+msgstr "将此商品设置为特色商品。"
 
 #: includes/admin/class-wc-admin-post-types.php:1988
 msgid "Featured Product"
@@ -1411,7 +1411,7 @@ msgstr "城市"
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:67
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:116
 msgid "Postcode"
-msgstr "邮递区号"
+msgstr "邮递编码"
 
 #: includes/admin/class-wc-admin-profile.php:78
 #: includes/admin/class-wc-admin-profile.php:131
@@ -1453,7 +1453,7 @@ msgstr "电子邮件"
 
 #: includes/admin/class-wc-admin-profile.php:100
 msgid "Customer Shipping Address"
-msgstr "顾客运送地址"
+msgstr "顾客配送地址"
 
 #: includes/admin/class-wc-admin-profile.php:225
 msgid "Read"
@@ -1469,7 +1469,7 @@ msgstr "读/写"
 
 #: includes/admin/class-wc-admin-profile.php:235
 msgid "WooCommerce API Keys"
-msgstr "WooCommerce API 金钥"
+msgstr "WooCommerce API 密钥"
 
 #: includes/admin/class-wc-admin-profile.php:240
 msgid "Generate API Key"
@@ -1477,7 +1477,7 @@ msgstr "产生 API Key"
 
 #: includes/admin/class-wc-admin-profile.php:244
 msgid "Consumer Key:"
-msgstr "消费者金钥"
+msgstr "消费者密钥"
 
 #: includes/admin/class-wc-admin-profile.php:245
 msgid "Consumer Secret:"
@@ -1489,7 +1489,7 @@ msgstr "权限"
 
 #: includes/admin/class-wc-admin-profile.php:256
 msgid "Revoke API Key"
-msgstr "撤销 API 金钥"
+msgstr "撤销 API 密钥"
 
 #: includes/admin/class-wc-admin-reports.php:45
 #: includes/admin/reports/class-wc-report-customer-list.php:232
@@ -1535,15 +1535,15 @@ msgstr "最多库存"
 
 #: includes/admin/class-wc-admin-reports.php:117
 msgid "Taxes"
-msgstr "税金"
+msgstr "税费"
 
 #: includes/admin/class-wc-admin-reports.php:120
 msgid "Taxes by code"
-msgstr "依代码的税金"
+msgstr "依代码的税费"
 
 #: includes/admin/class-wc-admin-reports.php:126
 msgid "Taxes by date"
-msgstr "依日期的税金"
+msgstr "依日期的税费"
 
 #: includes/admin/class-wc-admin-settings.php:58
 #: includes/admin/class-wc-admin-webhooks.php:123
@@ -1552,7 +1552,7 @@ msgstr "动作失败。请更新此页面 (F5) 并重试。"
 
 #: includes/admin/class-wc-admin-settings.php:69
 msgid "Your settings have been saved."
-msgstr "你的设定已经被储存。"
+msgstr "你的设置已经被保存。"
 
 #: includes/admin/class-wc-admin-settings.php:127
 msgid "The changes you made will be lost if you navigate away from this page."
@@ -1562,7 +1562,7 @@ msgstr "如果你离开此页变更将会遗失"
 msgid ""
 "The settings of this image size have been disabled because its values are "
 "being overwritten by a filter."
-msgstr "此图片尺寸的设定因为它的值被一个筛选器覆盖而停用"
+msgstr "此图片尺寸的设置因为它的值被一个筛选器覆盖而停用"
 
 #: includes/admin/class-wc-admin-settings.php:505
 msgid "Hard Crop?"
@@ -1620,7 +1620,7 @@ msgstr "税率已成功删除。"
 
 #: includes/admin/class-wc-admin-status.php:140
 msgid "Usage tracking settings successfully reset."
-msgstr "用途追踪设定成功重设"
+msgstr "用途追踪设置成功重设"
 
 #: includes/admin/class-wc-admin-status.php:149
 msgid "There was an error calling %s::%s"
@@ -1644,7 +1644,7 @@ msgstr "似乎您没有权限这样做！"
 msgid ""
 "An authentication error occurred while updating the translation. Please try "
 "again or configure your %sUpgrade Constants%s."
-msgstr "当更新翻译时发生了一个验证错误。请再试一次或设定你的 %s更新常数%s."
+msgstr "当更新翻译时发生了一个验证错误。请再试一次或设置你的 %s更新常数%s."
 
 #: includes/admin/class-wc-admin-status.php:170
 msgid "Sorry but there is no translation available for your language =/"
@@ -1656,7 +1656,7 @@ msgstr "翻译安装/更新成功！"
 
 #: includes/admin/class-wc-admin-status.php:184
 msgid "Your changes have been saved."
-msgstr "你的变更已储存"
+msgstr "你的变更已保存"
 
 #: includes/admin/class-wc-admin-status.php:197
 msgid "WC Transients"
@@ -1695,38 +1695,38 @@ msgid ""
 "This tool will recount product terms - useful when changing your settings in "
 "a way which hides products from the catalog."
 msgstr ""
-"这个工具将会重新计算商品项目数量 - 这在你变更在型录隐藏商品的设定之后很有用"
+"这个工具将会重新计算商品项目数量 - 这在你变更在目录隐藏商品的设置之后很有用"
 
 #: includes/admin/class-wc-admin-status.php:212
 msgid "Capabilities"
-msgstr "能力"
+msgstr "功能"
 
 #: includes/admin/class-wc-admin-status.php:213
 msgid "Reset capabilities"
-msgstr "重设能力"
+msgstr "重设功能"
 
 #: includes/admin/class-wc-admin-status.php:214
 msgid ""
 "This tool will reset the admin, customer and shop_manager roles to default. "
 "Use this if your users cannot access all of the WooCommerce admin pages."
 msgstr ""
-"这个工具将会重设管理者, 顾客以及商店管理员的角色为预设值。如果你的使用者无法"
+"这个工具将会重设管理者, 顾客以及商店管理员的角色为默认值。如果你的使用者无法"
 "存取 WooCommerce 管理页面时使用它"
 
 #: includes/admin/class-wc-admin-status.php:217
 msgid "Customer Sessions"
-msgstr "顾客连线"
+msgstr "顾客Sessions"
 
 #: includes/admin/class-wc-admin-status.php:218
 msgid "Clear all sessions"
-msgstr "清除所有连线"
+msgstr "清除所有Sessions"
 
 #: includes/admin/class-wc-admin-status.php:219
 msgid ""
 "<strong class=\"red\">Warning:</strong> This tool will delete all customer "
 "session data from the database, including any current live carts."
 msgstr ""
-"<strong class=\"red\">警告:</strong> 这个工具将会清除资料库中所有顾客连线资"
+"<strong class=\"red\">警告:</strong> 这个工具将会清除数据库中所有顾客连线资"
 "料，包括任何目前使用的购物车"
 
 #: includes/admin/class-wc-admin-status.php:222
@@ -1744,7 +1744,7 @@ msgid ""
 "WooCommerce pages. Pages already defined and set up will not be replaced."
 msgstr ""
 "<strong class=\"red\">注意:</strong> 这个工具将会安装所有缺少的 WooCommerce "
-"页面，所有已经定义的页面及设定将被取代"
+"页面，所有已经定义的页面及设置将被取代"
 
 #: includes/admin/class-wc-admin-status.php:227
 msgid "Delete all WooCommerce tax rates"
@@ -1763,18 +1763,18 @@ msgstr ""
 
 #: includes/admin/class-wc-admin-status.php:232
 msgid "Reset Usage Tracking Settings"
-msgstr "重设用途追踪设定"
+msgstr "重设用途追踪设置"
 
 #: includes/admin/class-wc-admin-status.php:233
 msgid "Reset usage tracking settings"
-msgstr "重设用途追踪设定"
+msgstr "重设用途追踪设置"
 
 #: includes/admin/class-wc-admin-status.php:234
 msgid ""
 "This will reset your usage tracking settings, causing it to show the opt-in "
 "banner again and not sending any data."
 msgstr ""
-"这将会重设你的用途追踪设定. 造成它会再显示选择加入旗号而且不传送任何资料"
+"这将会重设你的用途追踪设置. 造成它会再显示选择加入旗号而且不传送任何资料"
 
 #: includes/admin/class-wc-admin-status.php:240
 msgid "Translation Upgrade"
@@ -1818,7 +1818,7 @@ msgstr "两者"
 #: includes/admin/class-wc-admin-taxonomies.php:188
 #: includes/admin/class-wc-admin-taxonomies.php:315
 msgid "Thumbnail"
-msgstr "缩图"
+msgstr "缩略图"
 
 #: includes/admin/class-wc-admin-taxonomies.php:102
 #: includes/admin/class-wc-admin-taxonomies.php:193
@@ -1842,8 +1842,8 @@ msgid ""
 "more categories listed click the \"screen options\" link at the top of the "
 "page."
 msgstr ""
-"您商店的商品分类可以在此管理，如果要变更前台分类的显示顺序的话，你可以拖拉来"
-"排序他们。要看到更多的分类列示可以按页面右上角的［显示选项］连结。"
+"您商店的商品分类可以在此管理，如果要变更前台分类的显示顺序的话，你可以拖拽来"
+"排序他们。要看到更多的分类列示可以按页面右上角的［显示选项］连接。"
 
 #: includes/admin/class-wc-admin-taxonomies.php:272
 msgid ""
@@ -1851,26 +1851,26 @@ msgid ""
 "can then be used by certain shipping methods to provide different rates to "
 "different products."
 msgstr ""
-"运送级距可以用来分组相似类型商品，然后这些分组使用特定的运送方式，可以针对不"
-"同商品提供不同的运送费率"
+"配送类型可以用来分组相似类型商品，然后这些分组使用特定的配送方式，可以针对不"
+"同商品提供不同的配送费率"
 
 #: includes/admin/class-wc-admin-webhooks-table-list.php:26
 msgid "webhook"
-msgstr "网页连结"
+msgstr "网页连接"
 
 #: includes/admin/class-wc-admin-webhooks-table-list.php:27
 msgid "webhooks"
-msgstr "网页连结"
+msgstr "网页连接"
 
 #: includes/admin/class-wc-admin-webhooks-table-list.php:42
 #: includes/admin/settings/views/html-webhooks-edit.php:41
 msgid "Topic"
-msgstr "主旨:"
+msgstr "主题:"
 
 #: includes/admin/class-wc-admin-webhooks-table-list.php:43
 #: includes/admin/settings/views/html-webhooks-edit.php:93
 msgid "Delivery URL"
-msgstr "递送网址"
+msgstr "传送网址"
 
 #: includes/admin/class-wc-admin-webhooks-table-list.php:95
 msgid "ID: %d"
@@ -1895,28 +1895,28 @@ msgstr "已停用 <span class=\"count\">(%s)</span>"
 #: includes/admin/meta-boxes/class-wc-meta-box-order-actions.php:76
 #: includes/admin/settings/views/html-webhooks-edit.php:153
 msgid "Move to Trash"
-msgstr "移至垃圾桶"
+msgstr "移至回收站"
 
 #: includes/admin/class-wc-admin-webhooks-table-list.php:263
 msgid "Empty Trash"
-msgstr "清空回收筒"
+msgstr "清空回收站"
 
 #: includes/admin/class-wc-admin-webhooks.php:44
 #: includes/admin/class-wc-admin-webhooks.php:178
 msgid "Webhook created on %s"
-msgstr "网页连结建立于 %s"
+msgstr "网页连接建立于 %s"
 
 #: includes/admin/class-wc-admin-webhooks.php:169
 msgid "You don't have permissions to create Webhooks!"
-msgstr "你没有产生网页连结的权限"
+msgstr "你没有产生网页连接的权限"
 
 #: includes/admin/class-wc-admin-webhooks.php:241
 msgid "You don't have permissions to edit Webhooks!"
-msgstr "你没有编辑网页连结的权限"
+msgstr "你没有编辑网页连接的权限"
 
 #: includes/admin/class-wc-admin-webhooks.php:268
 msgid "You don't have permissions to delete Webhooks!"
-msgstr "你没有删除网页连结的权限"
+msgstr "你没有删除网页连接的权限"
 
 #: includes/admin/class-wc-admin-welcome.php:43
 msgid "Welcome to WooCommerce"
@@ -1967,17 +1967,17 @@ msgstr "翻译者"
 
 #: includes/admin/class-wc-admin-welcome.php:248
 msgid "UI Overhaul"
-msgstr "使用介面重设计"
+msgstr "使用界面重设计"
 
 #: includes/admin/class-wc-admin-welcome.php:249
 msgid ""
 "We've updated the user interface on both the front and backend of "
 "WooCommerce 2.3 \"Handsome Hippo\"."
-msgstr "我们已经将 WooCommerce 2.3 \"Handsome Hippo\" 前台及后台使用者介面更新"
+msgstr "我们已经将 WooCommerce 2.3 \"Handsome Hippo\" 前台及后台使用者界面更新"
 
 #: includes/admin/class-wc-admin-welcome.php:254
 msgid "Frontend UI Improvements"
-msgstr "前台使用者介面改善"
+msgstr "前台使用者界面改善"
 
 #: includes/admin/class-wc-admin-welcome.php:255
 msgid ""
@@ -1986,22 +1986,22 @@ msgid ""
 "which meshes more fluidly with the current design trends of default "
 "WordPress themes."
 msgstr ""
-"在前台有许多使用经验的强化像是购物车连结的回复-移除，以及迴响式表格设计以及一"
-"个新鲜现代化的外观，更流畅地吻合目前 WordPress 佈景主题设计的趋势"
+"在前台有许多使用经验的强化像是购物车连接的回复-移除，以及迴响式表格设计以及一"
+"个新鲜现代化的外观，更流畅地吻合目前 WordPress 主题设计的趋势"
 
 #: includes/admin/class-wc-admin-welcome.php:258
 msgid "Backend UI Improvements"
-msgstr "后台使用者介面改善"
+msgstr "后台使用者界面改善"
 
 #: includes/admin/class-wc-admin-welcome.php:259
 msgid ""
 "On the backend, settings have been re-organised and perform better on hand-"
 "held devices for an all round improved user experience. "
-msgstr "在后台设定已重新设计过在手持设备表现更好，全面改善使用者的经验"
+msgstr "在后台设置已重新设计在手持设备表现更好，全面改善使用者的经验"
 
 #: includes/admin/class-wc-admin-welcome.php:262
 msgid "Webhooks UI"
-msgstr "网页连结使用者介面"
+msgstr "网页连接使用者界面"
 
 #: includes/admin/class-wc-admin-welcome.php:263
 msgid ""
@@ -2011,7 +2011,7 @@ msgid ""
 msgstr ""
 "关于 API 的部份，我们在 WooCommerce 2.3 中，为 Webhook 系统添加了一个操作介"
 "面。这让第三方应用程式更容易与 WooCommerce 整合. 阅读我们的 %s文件%s 以取得更"
-"多资讯."
+"多信息."
 
 #: includes/admin/class-wc-admin-welcome.php:271
 msgid "Geo-locating Customer Location"
@@ -2023,8 +2023,8 @@ msgid ""
 "Coupled with ability to show taxes in your store based on this location, you "
 "can show relevant prices store-wide. Enable this in the %ssettings%s."
 msgstr ""
-"我们已新增一个 \"预设所在位置\" 的地理位置选项. 能够结合显示你全店在此位置的"
-"税率. 你可以在全店显示相关的价格. 请在 %s设定%s 启用它."
+"我们已新增一个 \"默认所在位置\" 的地理位置选项. 能够结合显示你全店在此位置的"
+"税率. 你可以在全店显示相关的价格. 请在 %s设置%s 启用它."
 
 #: includes/admin/class-wc-admin-welcome.php:275
 msgid "Color Customization"
@@ -2036,8 +2036,8 @@ msgid ""
 "take a look at the free %sWooCommerce Colors plugin%s. This lets you change "
 "the colors with a live preview."
 msgstr ""
-"如果你在寻找在 2.3 版客製化前台外观及感觉的话，请看一下免费的  %sWooCommerce "
-"色彩外挂%s. 这可以让你即时预览变更结果."
+"如果你在寻找在 2.3 版定制化前台外观及感觉的话，请看一下免费的  %sWooCommerce "
+"色彩插件%s. 这可以让你即时预览变更结果."
 
 #: includes/admin/class-wc-admin-welcome.php:279
 msgid "Improved Reports"
@@ -2048,19 +2048,19 @@ msgid ""
 "Sales reports can now show net and gross amounts, we've added a print "
 "stylesheet, and added extra data on refunds to reports."
 msgstr ""
-"销售报表现在可以秀出淨值及总值. 我们也新增一个列印表单. 并在退款报表上新增额"
+"销售报表现在可以秀出净值及总值. 我们也新增一个列印表单. 并在退款报表上新增额"
 "外贪料"
 
 #: includes/admin/class-wc-admin-welcome.php:285
 msgid "Improved Simplify Gateway"
-msgstr "改善 Simplify 付款金流"
+msgstr "改善 Simplify 付款网关"
 
 #: includes/admin/class-wc-admin-welcome.php:286
 msgid ""
 "The built in Simplify Commerce Gateway (available in the US) now supports "
 "%sHosted Payments%s - a PCI Compliant hosted payment platform."
 msgstr ""
-"内建的 Simplify Commerce Gateway (在美国可用) 现在支援 %sHosted Payments%s - "
+"内建的 Simplify Commerce Gateway (在美国可用) 现在支持 %sHosted Payments%s - "
 "一个遵循 PCI 规范的付款平台."
 
 #: includes/admin/class-wc-admin-welcome.php:289
@@ -2073,8 +2073,8 @@ msgid ""
 "release, some new template files for styling emails, and some additional "
 "hooks for developers. Read more on our %sdeveloper blog%s."
 msgstr ""
-"为了让电子邮件更容易客製. 我们在此版本引进了一个 CSS 直插系统. 有些新的电子邮"
-"件格式样板档. 以及一些额外的 hooks. 更多内容请查看我们的 %s开发者部落格%s"
+"为了让电子邮件更容易定制. 我们在此版本引进了一个 CSS 直插系统. 有些新的电子邮"
+"件格式模板. 以及一些额外的 hooks. 更多内容请查看我们的 %s开发者博客%s"
 
 #: includes/admin/class-wc-admin-welcome.php:293
 msgid "Simplified Coupon System"
@@ -2086,12 +2086,12 @@ msgid ""
 "to taxes, and we've improved support for discounting products inclusive of "
 "tax. Read more on our %sdevelop blog%s."
 msgstr ""
-"我们已经简化优惠券系统以保证折扣不会套到税金. 我们也改善了含税商品的折扣方"
+"我们已经简化优惠券系统以保证折扣不会套到税费. 我们也改善了含税商品的折扣方"
 "式. 更多内容请看我们的 %s开发者部落格%s."
 
 #: includes/admin/class-wc-admin-welcome.php:302
 msgid "Go to WooCommerce Settings"
-msgstr "前往 WooCommerce 设定"
+msgstr "前往 WooCommerce 设置"
 
 #: includes/admin/class-wc-admin-welcome.php:317
 msgid ""
@@ -2108,16 +2108,16 @@ msgid ""
 "to our translation team. Want to see your name? <a href=\"%s\">Translate "
 "WooCommerce</a>."
 msgstr ""
-"感谢我们的翻译团队 WooCommerce 已经被翻译成许多语言。想在这裡看到你的名字吗？"
+"感谢我们的翻译团队 WooCommerce 已经被翻译成许多语言。想在这里看到你的名字吗？"
 "<a href=\"%s\">翻译 WooCommerce</a> 吧"
 
 #: includes/admin/class-wc-admin-welcome.php:381
 msgid "View %s"
-msgstr "检视 %s"
+msgstr "查看 %s"
 
 #: includes/admin/class-wc-admin.php:123
 msgid "HTML Email Template"
-msgstr "HTML 电子邮件范本"
+msgstr "HTML 电子邮件模板"
 
 #: includes/admin/class-wc-admin.php:177
 msgid ""
@@ -2133,11 +2133,11 @@ msgstr "谢谢你 :)"
 
 #: includes/admin/class-wc-admin.php:185
 msgid "Thank you for selling with WooCommerce."
-msgstr "感谢你使用 WooCommerce 卖东西"
+msgstr "感谢你使用 WooCommerce 销售商品"
 
 #: includes/admin/importers/class-wc-tax-rate-importer.php:102
 msgid "The file does not exist, please try again."
-msgstr "档案不存在，请再试一次。"
+msgstr "文件不存在，请再试一次。"
 
 #: includes/admin/importers/class-wc-tax-rate-importer.php:137
 msgid "The CSV is invalid."
@@ -2153,7 +2153,7 @@ msgstr "一切都搞定了！"
 
 #: includes/admin/importers/class-wc-tax-rate-importer.php:155
 msgid "View Tax Rates"
-msgstr "检视税率"
+msgstr "查看税率"
 
 #: includes/admin/importers/class-wc-tax-rate-importer.php:191
 msgid "Import Tax Rates"
@@ -2166,31 +2166,31 @@ msgid ""
 "\"."
 msgstr ""
 "你好！上传一个含有要汇入到你商品税率内容的 CSV 档，选择 .csv 档上传，然后按"
-"下 \"上传档案并汇入\""
+"下 \"上传文件并汇入\""
 
 #: includes/admin/importers/class-wc-tax-rate-importer.php:209
 msgid ""
 "Tax rates need to be defined with columns in a specific order (10 columns). "
 "<a href=\"%s\">Click here to download a sample</a>."
-msgstr "税率必须依特定栏位顺序 (10 栏) 定义，<a href=\"%s\">按这裡下载范例</a>"
+msgstr "税率必须依特定字段顺序 (10 栏) 定义，<a href=\"%s\">按这里下载范例</a>"
 
 #: includes/admin/importers/class-wc-tax-rate-importer.php:217
 msgid ""
 "Before you can upload your import file, you will need to fix the following "
 "error:"
-msgstr "在你可以上传你的汇入档案之前，你需要修正以下的错误:"
+msgstr "在你可以上传你的汇入文件之前，你需要修正以下的错误:"
 
 #: includes/admin/importers/class-wc-tax-rate-importer.php:226
 msgid "Choose a file from your computer:"
-msgstr "从您的电脑中选择一个档案："
+msgstr "从您的电脑中选择一个文件："
 
 #: includes/admin/importers/class-wc-tax-rate-importer.php:232
 msgid "Maximum size: %s"
-msgstr "档案大小上限：%s"
+msgstr "文件大小上限：%s"
 
 #: includes/admin/importers/class-wc-tax-rate-importer.php:237
 msgid "OR enter path to file:"
-msgstr "或输入档案位置："
+msgstr "或输入文件位置："
 
 #: includes/admin/importers/class-wc-tax-rate-importer.php:244
 msgid "Delimiter"
@@ -2198,7 +2198,7 @@ msgstr "分隔符"
 
 #: includes/admin/importers/class-wc-tax-rate-importer.php:250
 msgid "Upload file and import"
-msgstr "上传档案并汇入"
+msgstr "上传文件并汇入"
 
 #: includes/admin/importers/class-wc-tax-rate-importer.php:264
 msgid "Sorry, there has been an error."
@@ -2238,7 +2238,7 @@ msgid ""
 "shipping coupon\" (see the \"Free Shipping Requires\" setting)."
 msgstr ""
 "如果优惠券允许免运费请勾选此项. <a href=\"%s\">免运费方法</a> 必须要启用并设"
-"为需要 \"一个有效的免运费优惠券\" (请看 \"免运费需求\" 设定)."
+"为需要 \"一个有效的免运费优惠券\" (请看 \"免运费需求\" 设置)."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:74
 msgid "Coupon expiry date"
@@ -2255,7 +2255,7 @@ msgstr "无最低消费"
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:84
 msgid ""
 "This field allows you to set the minimum subtotal needed to use the coupon."
-msgstr "此栏位允许你设定要使用优惠券的最小金额"
+msgstr "此字段允许你设置要使用优惠券的最小金额"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:87
 msgid "Maximum spend"
@@ -2269,7 +2269,7 @@ msgstr "无最高限制"
 msgid ""
 "This field allows you to set the maximum subtotal allowed when using the "
 "coupon."
-msgstr "此栏位允许你设定使用优惠券时的最高消费额"
+msgstr "此字段允许你设置使用优惠券时的最高消费额"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:90
 msgid "Individual use only"
@@ -2301,13 +2301,13 @@ msgstr ""
 #: includes/admin/meta-boxes/views/html-order-items.php:305
 #: includes/admin/reports/class-wc-report-sales-by-product.php:181
 msgid "Search for a product&hellip;"
-msgstr "搜寻商品&hellip;"
+msgstr "搜索商品&hellip;"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:112
 msgid ""
 "Products which need to be in the cart to use this coupon or, for \"Product "
 "Discounts\", which products are discounted."
-msgstr "要使用这张优惠券的商品要在购物车裡，针对\"商品折扣\"的商品已经有折扣了"
+msgstr "要使用这张优惠券的商品要在购物车里，针对\"商品折扣\"的商品已经有折扣了"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:117
 msgid "Exclude products"
@@ -2318,7 +2318,7 @@ msgid ""
 "Products which must not be in the cart to use this coupon or, for \"Product "
 "Discounts\", which products are not discounted."
 msgstr ""
-"要使用这张优惠券的商品不可以在购物车裡，针对\"商品折扣\"的商品不能有折扣"
+"要使用这张优惠券的商品不可以在购物车里，针对\"商品折扣\"的商品不能有折扣"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:137
 msgid "Product categories"
@@ -2333,7 +2333,7 @@ msgid ""
 "A product must be in this category for the coupon to remain valid or, for "
 "\"Product Discounts\", products in these categories will be discounted."
 msgstr ""
-"分类中的商品要在购物车裡优惠券才会有效，针对\"商品折扣\"在这些分类的商品将会"
+"分类中的商品要在购物车里优惠券才会有效，针对\"商品折扣\"在这些分类的商品将会"
 "折扣"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:152
@@ -2349,7 +2349,7 @@ msgid ""
 "Product must not be in this category for the coupon to remain valid or, for "
 "\"Product Discounts\", products in these categories will not be discounted."
 msgstr ""
-"分类中的商品不可以在购物车裡优惠券才会有效，针对\"商品折扣\"在这些分类的商品"
+"分类中的商品不可以在购物车里优惠券才会有效，针对\"商品折扣\"在这些分类的商品"
 "将不会折扣"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:168
@@ -2415,15 +2415,15 @@ msgstr "产生下载权限"
 #: includes/admin/meta-boxes/class-wc-meta-box-order-actions.php:65
 #: includes/admin/meta-boxes/views/html-order-items.php:215
 msgid "Apply"
-msgstr "套用"
+msgstr "应用"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-actions.php:82
 msgid "Save %s"
-msgstr "储存 %s"
+msgstr "保存 %s"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-actions.php:82
 msgid "Save/update the %s"
-msgstr "储存更新 %s"
+msgstr "保存更新 %s"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:43
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:92
@@ -2437,7 +2437,7 @@ msgstr "姓氏"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:86
 msgid "Phone"
-msgstr "联络电话"
+msgstr "联系电话"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:166
 msgid "Order #%s Details"
@@ -2445,7 +2445,7 @@ msgstr "订单 #%s 详情"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:170
 msgid "Payment via %s"
-msgstr "透过 %s 付款"
+msgstr "通过 %s 付款"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:183
 msgid "Customer IP"
@@ -2453,7 +2453,7 @@ msgstr "顾客 IP 位址"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:189
 msgid "General Details"
-msgstr "一般资讯"
+msgstr "一般信息"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:191
 msgid "Order date:"
@@ -2482,7 +2482,7 @@ msgstr "查看其他订单"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:232
 msgid "Billing Details"
-msgstr "帐单资讯"
+msgstr "帐单信息"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:238
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:240
@@ -2493,7 +2493,7 @@ msgstr "地址"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:240
 msgid "No billing address set."
-msgstr "没有设定帐单地址。"
+msgstr "没有设置帐单地址。"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:258
 msgid "Load billing address"
@@ -2523,11 +2523,11 @@ msgstr "交易代码"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:312
 msgid "Shipping Details"
-msgstr "配送资讯"
+msgstr "配送信息"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:320
 msgid "No shipping address set."
-msgstr "没有设定配送地址。"
+msgstr "没有设置配送地址。"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:338
 msgid "Customer Note"
@@ -2539,7 +2539,7 @@ msgstr "载入配送地址"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:344
 msgid "Copy from billing"
-msgstr "从帐单複製"
+msgstr "从帐单复制"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:368
 msgid "Customer Note:"
@@ -2551,11 +2551,11 @@ msgstr "有关此订单的顾客备注"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-downloads.php:55
 msgid "File %d"
-msgstr "档案 %d"
+msgstr "文件 %d"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-downloads.php:68
 msgid "Search for a downloadable product&hellip;"
-msgstr "搜寻可下载商品&hellip;"
+msgstr "搜索可下载商品&hellip;"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-downloads.php:69
 msgid "Grant Access"
@@ -2608,11 +2608,11 @@ msgstr "商品类型"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:58
 msgid "Virtual products are intangible and aren't shipped."
-msgstr "虚拟商品是无形的而且不用运送"
+msgstr "虚拟商品是无形的而且不用配送"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:65
 msgid "Downloadable products give access to a file upon purchase."
-msgstr "下载商品在购买后赋予档案权限"
+msgstr "下载商品在购买后赋予文件权限"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:94
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:687
@@ -2630,11 +2630,11 @@ msgstr "库存"
 #: includes/admin/settings/views/html-settings-tax.php:148
 #: includes/admin/views/html-admin-page-addons.php:29
 msgid "Shipping"
-msgstr "运送方式"
+msgstr "配送方式"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:104
 msgid "Linked Products"
-msgstr "连结商品"
+msgstr "连接商品"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:114
 msgid "Variations"
@@ -2642,7 +2642,7 @@ msgstr "变化类型"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:119
 msgid "Advanced"
-msgstr "进阶"
+msgstr "高级"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:140
 msgid "Stock Keeping Unit"
@@ -2668,7 +2668,7 @@ msgstr "底部文字"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:155
 msgid "This text will be shown on the button linking to the external product."
-msgstr "这些文字将会显示在底部，连结到外部商品"
+msgstr "这些文字将会显示在底部，连接到外部商品"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:162
 msgid "Regular Price"
@@ -2689,12 +2689,12 @@ msgstr "促销假日期"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:176
 msgid "The sale will end at the beginning of the set date."
-msgstr "销售将会在设定日期开始时结束"
+msgstr "销售将会在设置日期开始时结束"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:187
 #: includes/admin/meta-boxes/views/html-variation-admin.php:192
 msgid "Downloadable Files"
-msgstr "可下载档案"
+msgstr "可下载文件"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:192
 #: includes/admin/meta-boxes/views/html-variation-admin.php:196
@@ -2704,19 +2704,19 @@ msgstr "这是显示给顾客的下载名称"
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:193
 #: includes/admin/meta-boxes/views/html-variation-admin.php:197
 msgid "File URL"
-msgstr "档案网址"
+msgstr "文件网址"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:193
 #: includes/admin/meta-boxes/views/html-variation-admin.php:197
 msgid ""
 "This is the URL or absolute path to the file which customers will get access "
 "to."
-msgstr "这是指向顾客取得权限档案的绝对路径网址"
+msgstr "这是指向顾客取得权限文件的绝对路径网址"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:219
 #: includes/admin/meta-boxes/views/html-variation-admin.php:227
 msgid "Add File"
-msgstr "新增档案"
+msgstr "新增文件"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:228
 msgid "Download Limit"
@@ -2732,7 +2732,7 @@ msgstr "无限"
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:228
 #: includes/admin/meta-boxes/views/html-variation-admin.php:236
 msgid "Leave blank for unlimited re-downloads."
-msgstr "无限重複下载清留空。"
+msgstr "无限重复下载清留空。"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:234
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:699
@@ -2748,7 +2748,7 @@ msgstr "从未"
 #: includes/admin/meta-boxes/views/html-variation-admin.php:240
 msgid ""
 "Enter the number of days before a download link expires, or leave blank."
-msgstr "输入下载连结逾期的天数，或留空白"
+msgstr "输入下载连接过期的天数，或留空白"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:240
 msgid "Download Type"
@@ -2764,7 +2764,7 @@ msgstr "标准商品"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:242
 msgid "Application/Software"
-msgstr "软体"
+msgstr "应用程序/软件"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:243
 msgid "Music"
@@ -2774,13 +2774,13 @@ msgstr "音乐"
 #: includes/admin/views/html-bulk-edit-product.php:69
 #: includes/admin/views/html-quick-edit-product.php:49
 msgid "Tax Status"
-msgstr "税金状态"
+msgstr "税费状态"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:256
 #: includes/admin/views/html-bulk-edit-product.php:75
 #: includes/admin/views/html-quick-edit-product.php:54
 msgid "Taxable"
-msgstr "应课税"
+msgstr "应纳税"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:257
 #: includes/admin/views/html-bulk-edit-product.php:76
@@ -2803,7 +2803,7 @@ msgstr "标准"
 #: includes/admin/views/html-bulk-edit-product.php:88
 #: includes/admin/views/html-quick-edit-product.php:67
 msgid "Tax Class"
-msgstr "税金等级"
+msgstr "税费等级"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:293
 #: includes/admin/meta-boxes/views/html-variation-admin.php:82
@@ -2929,24 +2929,24 @@ msgstr "十进位格式的 长x宽x高 "
 #: includes/admin/views/html-bulk-edit-product.php:167
 #: includes/admin/views/html-quick-edit-product.php:124
 msgid "No shipping class"
-msgstr "无运送级距"
+msgstr "无配送类型"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:396
 #: includes/admin/views/html-bulk-edit-product.php:163
 #: includes/admin/views/html-quick-edit-product.php:121
 msgid "Shipping class"
-msgstr "运送级距"
+msgstr "配送类型"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:396
 msgid ""
 "Shipping classes are used by certain shipping methods to group similar "
 "products."
-msgstr "运送级距用于特定运送方式或是相似组合的商品"
+msgstr "配送类型用于特定配送方式或是相似组合的商品"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:408
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:669
 msgid "Close all"
-msgstr "全部收合"
+msgstr "全部收起"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:408
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:669
@@ -2959,7 +2959,7 @@ msgstr "自订商品属性"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:469
 msgid "Save attributes"
-msgstr "储存属性"
+msgstr "保存属性"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:477
 msgid "Up-Sells"
@@ -3019,7 +3019,7 @@ msgid ""
 "Before adding variations, add and save some attributes on the "
 "<strong>Attributes</strong> tab."
 msgstr ""
-"在新增变化类型之前，请先在 <strong>属性</strong> 页籤新增并储存一些属性"
+"在新增变化类型之前，请先在 <strong>属性</strong> 页籤新增并保存一些属性"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:663
 msgid "Learn more"
@@ -3027,7 +3027,7 @@ msgstr "了解更多"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:671
 msgid "Choose a field to bulk edit&hellip;"
-msgstr "选取一个栏位进行批次编辑&hellip;"
+msgstr "选取一个字段进行批次编辑&hellip;"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:673
 msgid "Toggle &quot;Enabled&quot;"
@@ -3075,7 +3075,7 @@ msgstr "特价降价幅度 (固定金额或 %)"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:685
 msgid "Scheduled sale dates"
-msgstr "排程的销售日期"
+msgstr "安排的销售日期"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:688
 msgid "Toggle &quot;Manage stock&quot;"
@@ -3100,11 +3100,11 @@ msgstr "新增变化类型"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:821
 msgid "Link all variations"
-msgstr "连结所有变化类型"
+msgstr "连接所有变化类型"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:823
 msgid "Defaults"
-msgstr "预设"
+msgstr "默认"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:823
 msgid "These are the attributes that will be pre-selected on the frontend."
@@ -3112,7 +3112,7 @@ msgstr "这些属性将会在前台预先选取"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:838
 msgid "No default"
-msgstr "没有预设"
+msgstr "没有默认"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:957
 msgid "Product SKU must be unique."
@@ -3145,7 +3145,7 @@ msgstr "新增商品图库图片"
 
 #: includes/admin/meta-boxes/views/html-order-download-permission.php:10
 msgid "Revoke Access"
-msgstr "撤销存取"
+msgstr "撤销访问"
 
 #: includes/admin/meta-boxes/views/html-order-download-permission.php:13
 msgid "%s: %s"
@@ -3158,11 +3158,11 @@ msgstr[0] "已下载 %s 次"
 
 #: includes/admin/meta-boxes/views/html-order-download-permission.php:20
 msgid "Downloads Remaining"
-msgstr "剩馀下载项目"
+msgstr "剩余下载项目"
 
 #: includes/admin/meta-boxes/views/html-order-download-permission.php:26
 msgid "Access Expires"
-msgstr "连线逾期"
+msgstr "访问过期"
 
 #: includes/admin/meta-boxes/views/html-order-fee.php:20
 msgid "Fee"
@@ -3191,7 +3191,7 @@ msgstr "商品货号："
 
 #: includes/admin/meta-boxes/views/html-order-item.php:142
 msgid "Add&nbsp;meta"
-msgstr "新增&nbsp;描述资讯"
+msgstr "新增&nbsp;描述信息"
 
 #: includes/admin/meta-boxes/views/html-order-item.php:204
 #: includes/admin/meta-boxes/views/html-order-item.php:247
@@ -3220,7 +3220,7 @@ msgstr "数量"
 #: includes/admin/reports/class-wc-report-taxes-by-code.php:144
 #: includes/admin/settings/class-wc-settings-tax.php:28
 msgid "Tax"
-msgstr "税金"
+msgstr "税费"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:125
 msgid "Coupon(s) Used"
@@ -3236,7 +3236,7 @@ msgstr "这是总折扣金额. 折扣是每一表列项目定义的"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:150
 msgid "This is the shipping and handling total costs for the order."
-msgstr "订单的运送及处理总费用"
+msgstr "订单的配送及处理总费用"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:170
 msgid "Order Total"
@@ -3301,11 +3301,11 @@ msgstr "新增费用"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:242
 msgid "Add shipping cost"
-msgstr "新增运送费用"
+msgstr "新增配送费用"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:244
 msgid "Save"
-msgstr "储存"
+msgstr "保存"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:254
 msgid "Restock refunded items"
@@ -3330,19 +3330,19 @@ msgstr "退费理由 (选填)"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:285
 msgid "Payment Gateway"
-msgstr "付款金流"
+msgstr "付款网关"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:287
 msgid ""
 "The payment gateway used to place this order does not support automatic "
 "refunds."
-msgstr "此订单用来付款的金流不支援自动退款."
+msgstr "此订单用来付款的网关不支持自动退款."
 
 #: includes/admin/meta-boxes/views/html-order-items.php:288
 msgid ""
 "You will need to manually issue a refund through your payment gateway after "
 "using this."
-msgstr "如果你使用这个金流付款你退款时要手动申请"
+msgstr "如果你使用这个网关付款你退款时要手动申请"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:301
 msgid "Add products"
@@ -3358,7 +3358,7 @@ msgstr "税率名称"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:334
 msgid "Tax class"
-msgstr "税金等级"
+msgstr "税费等级"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:335
 msgid "Rate code"
@@ -3383,7 +3383,7 @@ msgstr "代码:"
 
 #: includes/admin/meta-boxes/views/html-order-shipping.php:23
 msgid "Shipping Name"
-msgstr "运送名称"
+msgstr "配送名称"
 
 #: includes/admin/meta-boxes/views/html-order-shipping.php:25
 msgid "Shipping Method"
@@ -3408,7 +3408,7 @@ msgstr "输入一些文字. 或一些用 \"%s\" 分开的属性."
 #: includes/admin/meta-boxes/views/html-product-download.php:3
 #: includes/admin/meta-boxes/views/html-product-variation-download.php:2
 msgid "File Name"
-msgstr "档案名称"
+msgstr "文件名称"
 
 #: includes/admin/meta-boxes/views/html-product-download.php:4
 #: includes/admin/meta-boxes/views/html-product-variation-download.php:3
@@ -3418,12 +3418,12 @@ msgstr "http://"
 #: includes/admin/meta-boxes/views/html-product-download.php:5
 #: includes/admin/meta-boxes/views/html-product-variation-download.php:4
 msgid "Choose file"
-msgstr "选择档案"
+msgstr "选择文件"
 
 #: includes/admin/meta-boxes/views/html-product-download.php:5
 #: includes/admin/meta-boxes/views/html-product-variation-download.php:4
 msgid "Insert file URL"
-msgstr "插入档案位址"
+msgstr "插入文件位址"
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:32
 msgid "Any"
@@ -3432,7 +3432,7 @@ msgstr "任何"
 #: includes/admin/meta-boxes/views/html-variation-admin.php:66
 msgid ""
 "Enter a SKU for this variation or leave blank to use the parent product SKU."
-msgstr "输入此项变化类型的货号，或是留白使用上层货号。"
+msgstr "输入此项变化类型的货号，或是留白使用上级货号。"
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:74
 #: includes/admin/settings/class-wc-settings-checkout.php:278
@@ -3447,12 +3447,12 @@ msgstr "启用"
 msgid ""
 "Enable this option if access is given to a downloadable file upon purchase "
 "of a product"
-msgstr "如果一个商品在购买后赋予下载档案权限请启用此选项"
+msgstr "如果一个商品在购买后赋予下载文件权限请启用此选项"
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:78
 msgid ""
 "Enable this option if a product is not shipped or there is no shipping cost"
-msgstr "如果一个商品不用运送或是没有运送费用请启用此选项"
+msgstr "如果一个商品不用配送或是没有配送费用请启用此选项"
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:82
 msgid "Enable this option to enable stock management at variation level"
@@ -3472,7 +3472,7 @@ msgstr "促销价："
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:95
 msgid "Cancel schedule"
-msgstr "取消排程"
+msgstr "取消安排"
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:101
 msgid "Sale start date:"
@@ -3490,13 +3490,13 @@ msgstr "库存量："
 msgid ""
 "Enter a quantity to enable stock management at variation level, or leave "
 "blank to use the parent product's options."
-msgstr "输入此变化类型库存量以启用变化层级的库存管理，或留空白沿用上层商品选项"
+msgstr "输入此变化类型库存量以启用变化层级的库存管理，或留空白沿用上级商品选项"
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:146
 msgid ""
 "Enter a weight for this variation or leave blank to use the parent product "
 "weight."
-msgstr "输入此变化类型的重量以启用变化层级的库存管理，或留空白沿用上层商品重量"
+msgstr "输入此变化类型的重量以启用变化层级的库存管理，或留空白沿用上级商品重量"
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:154
 msgid "Dimensions (L&times;W&times;H)"
@@ -3504,16 +3504,16 @@ msgstr "规格 (长&times;宽&times;高)"
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:165
 msgid "Shipping class:"
-msgstr "运送级距："
+msgstr "配送类型："
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:169
 #: includes/admin/meta-boxes/views/html-variation-admin.php:182
 msgid "Same as parent"
-msgstr "与上层相同"
+msgstr "与上级相同"
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:180
 msgid "Tax class:"
-msgstr "税金等级"
+msgstr "税费等级"
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:236
 msgid "Download Limit:"
@@ -3534,11 +3534,11 @@ msgstr[0] "过去 %s 天卖出一个项目"
 
 #: includes/admin/reports/class-wc-report-coupon-usage.php:91
 msgid "%s discounts in total"
-msgstr "%s 折扣于总销售"
+msgstr "%s 折扣相对于总金额"
 
 #: includes/admin/reports/class-wc-report-coupon-usage.php:97
 msgid "%s coupons used in total"
-msgstr "%s 优惠券于总销售"
+msgstr "%s 优惠券对于总金额"
 
 #: includes/admin/reports/class-wc-report-coupon-usage.php:111
 #: includes/admin/reports/class-wc-report-customers.php:146
@@ -3643,7 +3643,7 @@ msgstr "没有顾客。"
 #: includes/admin/reports/class-wc-report-customer-list.php:51
 msgid "%s previous order linked"
 msgid_plural "%s previous orders linked"
-msgstr[0] "%s 已连结上一张订单"
+msgstr[0] "%s 已连接上一张订单"
 
 #: includes/admin/reports/class-wc-report-customer-list.php:61
 msgid "Refreshed stats for %s"
@@ -3651,7 +3651,7 @@ msgstr "%s 的状态更新"
 
 #: includes/admin/reports/class-wc-report-customer-list.php:66
 msgid "Search customers"
-msgstr "搜寻顾客"
+msgstr "搜索顾客"
 
 #: includes/admin/reports/class-wc-report-customer-list.php:163
 msgid "Refresh stats"
@@ -3659,11 +3659,11 @@ msgstr "更新状态"
 
 #: includes/admin/reports/class-wc-report-customer-list.php:175
 msgid "View orders"
-msgstr "检视订单"
+msgstr "查看订单"
 
 #: includes/admin/reports/class-wc-report-customer-list.php:200
 msgid "Link previous orders"
-msgstr "连结上一张订单"
+msgstr "连接上一张订单"
 
 #: includes/admin/reports/class-wc-report-customer-list.php:228
 msgid "Name (Last, First)"
@@ -3753,7 +3753,7 @@ msgstr "全部"
 
 #: includes/admin/reports/class-wc-report-sales-by-category.php:254
 msgid "&larr; Choose a category to view stats"
-msgstr "&larr; 选取一个分类来检视状态"
+msgstr "&larr; 选取一个分类来查看状态"
 
 #: includes/admin/reports/class-wc-report-sales-by-date.php:276
 msgid "%s average daily sales"
@@ -3771,17 +3771,17 @@ msgstr "%s 本期总销售额"
 msgid ""
 "This is the sum of the order totals after any refunds and including shipping "
 "and taxes."
-msgstr "这是退款后包含运费及税金的订单总金额"
+msgstr "这是退款后包含运费及税费的订单总金额"
 
 #: includes/admin/reports/class-wc-report-sales-by-date.php:291
 msgid "%s net sales in this period"
-msgstr "%s 本期淨销售额"
+msgstr "%s 本期净销售额"
 
 #: includes/admin/reports/class-wc-report-sales-by-date.php:292
 msgid ""
 "This is the sum of the order totals after any refunds and excluding shipping "
 "and taxes."
-msgstr "这是退款后而且不包含运费及税金的订单总金额"
+msgstr "这是退款后而且不包含运费及税费的订单总金额"
 
 #: includes/admin/reports/class-wc-report-sales-by-date.php:302
 msgid "%s orders placed"
@@ -3789,7 +3789,7 @@ msgstr "%s 订单量"
 
 #: includes/admin/reports/class-wc-report-sales-by-date.php:308
 msgid "%s items purchased"
-msgstr "%s 品项被购买"
+msgstr "%s 项目被购买"
 
 #: includes/admin/reports/class-wc-report-sales-by-date.php:314
 msgid "%s charged for shipping"
@@ -3826,11 +3826,11 @@ msgstr "总销售金额"
 
 #: includes/admin/reports/class-wc-report-sales-by-date.php:512
 msgid "Net Sales amount"
-msgstr "淨销售金额"
+msgstr "净销售金额"
 
 #: includes/admin/reports/class-wc-report-sales-by-product.php:85
 msgid "%s sales for the selected items"
-msgstr "%s 销售量于所选项目"
+msgstr "%s 销售量相对于所选项目"
 
 #: includes/admin/reports/class-wc-report-sales-by-product.php:91
 msgid "%s purchases for the selected items"
@@ -3846,7 +3846,7 @@ msgstr "重置"
 
 #: includes/admin/reports/class-wc-report-sales-by-product.php:177
 msgid "Product Search"
-msgstr "商品搜寻"
+msgstr "商品搜索"
 
 #: includes/admin/reports/class-wc-report-sales-by-product.php:192
 msgid "Top Sellers"
@@ -3884,7 +3884,7 @@ msgstr "商品"
 
 #: includes/admin/reports/class-wc-report-stock.php:156
 msgid "Parent"
-msgstr "上层"
+msgstr "上级"
 
 #: includes/admin/reports/class-wc-report-stock.php:157
 msgid "Units in stock"
@@ -3901,30 +3901,30 @@ msgstr "订单数量"
 
 #: includes/admin/reports/class-wc-report-taxes-by-code.php:147
 msgid "Tax Amount"
-msgstr "税金"
+msgstr "税费"
 
 #: includes/admin/reports/class-wc-report-taxes-by-code.php:147
 msgid "This is the sum of the \"Tax Rows\" tax amount within your orders."
-msgstr "这是你订单 \"税金列\" 税金的总计。"
+msgstr "这是你订单 \"税费列\" 税费的总计。"
 
 #: includes/admin/reports/class-wc-report-taxes-by-code.php:148
 msgid "Shipping Tax Amount"
-msgstr "运费税金总计"
+msgstr "运费税费总计"
 
 #: includes/admin/reports/class-wc-report-taxes-by-code.php:148
 msgid ""
 "This is the sum of the \"Tax Rows\" shipping tax amount within your orders."
-msgstr "这是你订单 \"税金列\" 运费税金的总计。"
+msgstr "这是你订单 \"税费列\" 运费税费的总计。"
 
 #: includes/admin/reports/class-wc-report-taxes-by-code.php:149
 #: includes/admin/reports/class-wc-report-taxes-by-date.php:151
 msgid "Total Tax"
-msgstr "税金总计"
+msgstr "税费总计"
 
 #: includes/admin/reports/class-wc-report-taxes-by-code.php:149
 #: includes/admin/reports/class-wc-report-taxes-by-date.php:151
 msgid "This is the total tax for the rate (shipping tax + product tax)."
-msgstr "这是此税率的税额憩计 (运送税金 + 商品税金)"
+msgstr "这是此税率的税额憩计 (配送税费 + 商品税费)"
 
 #: includes/admin/reports/class-wc-report-taxes-by-code.php:181
 #: includes/admin/reports/class-wc-report-taxes-by-date.php:196
@@ -3941,7 +3941,7 @@ msgstr "销售总计"
 
 #: includes/admin/reports/class-wc-report-taxes-by-date.php:149
 msgid "This is the sum of the 'Order Total' field within your orders."
-msgstr "这是你订单 \"订单总计\" 栏位的总计。"
+msgstr "这是你订单 \"订单总计\" 字段的总计。"
 
 #: includes/admin/reports/class-wc-report-taxes-by-date.php:150
 msgid "Total Shipping"
@@ -3949,15 +3949,15 @@ msgstr "运费总计"
 
 #: includes/admin/reports/class-wc-report-taxes-by-date.php:150
 msgid "This is the sum of the 'Shipping Total' field within your orders."
-msgstr "这是你订单 \"运费总计\" 栏位的总计。"
+msgstr "这是你订单 \"运费总计\" 字段。"
 
 #: includes/admin/reports/class-wc-report-taxes-by-date.php:152
 msgid "Net profit"
-msgstr "淨利"
+msgstr "净利"
 
 #: includes/admin/reports/class-wc-report-taxes-by-date.php:152
 msgid "Total sales minus shipping and tax."
-msgstr "销售总额减掉运送费用及税额"
+msgstr "销售总额减掉配送费用及税额"
 
 #: includes/admin/reports/class-wc-report-taxes-by-date.php:185
 msgid "Totals"
@@ -3975,7 +3975,7 @@ msgstr "帐号页面"
 msgid ""
 "These pages need to be set so that WooCommerce knows where to send users to "
 "access account related functionality."
-msgstr "设定这些页面以便 WooCommerce 引导使用者至帐号相关功能页面。"
+msgstr "设置这些页面以便 WooCommerce 引导使用者至帐号相关功能页面。"
 
 #: includes/admin/settings/class-wc-settings-accounts.php:46
 msgid "My Account Page"
@@ -3999,11 +3999,11 @@ msgstr "终点会加在你的页面网址之后来处理帐号页面特定动作
 
 #: includes/admin/settings/class-wc-settings-accounts.php:61
 msgid "View Order"
-msgstr "检视订单"
+msgstr "查看订单"
 
 #: includes/admin/settings/class-wc-settings-accounts.php:62
 msgid "Endpoint for the My Account &rarr; View Order page"
-msgstr "我的帐号终点 &rarr; 检视订单页面"
+msgstr "我的帐号终点 &rarr; 查看订单页面"
 
 #: includes/admin/settings/class-wc-settings-accounts.php:70
 msgid "Edit Account"
@@ -4038,7 +4038,7 @@ msgid ""
 "Endpoint for the triggering logout. You can add this to your menus via a "
 "custom link: yoursite.com/?customer-logout=true"
 msgstr ""
-"触发登出的终点，可以在到你的选单加上自订连结: yoursite.com/?customer-"
+"触发登出的终点，可以在到你的选单加上自订连接: yoursite.com/?customer-"
 "logout=true 来强制登出。"
 
 #: includes/admin/settings/class-wc-settings-accounts.php:107
@@ -4122,7 +4122,7 @@ msgstr "结帐页面"
 msgid ""
 "These pages need to be set so that WooCommerce knows where to send users to "
 "checkout."
-msgstr "设定这些页面以便 WooCommerce 引导使用者到结帐页面。"
+msgstr "设置这些页面以便 WooCommerce 引导使用者到结帐页面。"
 
 #: includes/admin/settings/class-wc-settings-checkout.php:115
 msgid "Cart Page"
@@ -4179,25 +4179,25 @@ msgstr "结帐终点 &rarr; 新增付款方式页面"
 
 #: includes/admin/settings/class-wc-settings-checkout.php:181
 msgid "Payment Gateways"
-msgstr "付款金流"
+msgstr "付款网关"
 
 #: includes/admin/settings/class-wc-settings-checkout.php:181
 msgid ""
 "Installed gateways are listed below. Drag and drop gateways to control their "
 "display order on the frontend."
-msgstr "已安装的金流表列在下方，拖拉金流来改变他们的前台显示顺序。"
+msgstr "已安装的网关表列在下方，拖拽网关来改变他们的前台显示顺序。"
 
 #: includes/admin/settings/class-wc-settings-checkout.php:223
 msgid "Gateway Display Order"
-msgstr "金流显示顺序"
+msgstr "网关显示顺序"
 
 #: includes/admin/settings/class-wc-settings-checkout.php:231
 msgid "Gateway"
-msgstr "金流"
+msgstr "网关"
 
 #: includes/admin/settings/class-wc-settings-checkout.php:232
 msgid "Gateway ID"
-msgstr "金流代码"
+msgstr "网关代码"
 
 #: includes/admin/settings/class-wc-settings-emails.php:27
 msgid "Emails"
@@ -4215,19 +4215,19 @@ msgstr "电子邮件传送选项"
 msgid ""
 "The following options affect the sender (email address and name) used in "
 "WooCommerce emails."
-msgstr "这些选项影响 WooCommerce 电子邮件寄件者使用的 (电子邮件地址及名称)。"
+msgstr "这些选项影响 WooCommerce 电子邮件发送者使用的 (电子邮件地址及名称)。"
 
 #: includes/admin/settings/class-wc-settings-emails.php:73
 msgid "\"From\" Name"
-msgstr "寄件者名称"
+msgstr "发送者名称"
 
 #: includes/admin/settings/class-wc-settings-emails.php:83
 msgid "\"From\" Email Address"
-msgstr "寄件者电子邮件"
+msgstr "发送者电子邮件"
 
 #: includes/admin/settings/class-wc-settings-emails.php:97
 msgid "Email Template"
-msgstr "电子邮件范本"
+msgstr "电子邮件模板"
 
 #: includes/admin/settings/class-wc-settings-emails.php:97
 msgid ""
@@ -4236,8 +4236,8 @@ msgid ""
 "advanced control copy <code>woocommerce/templates/emails/</code> to "
 "<code>yourtheme/woocommerce/emails/</code>."
 msgstr ""
-"本节让你自订 WooCommerce 电子邮件. <a href=\"%s\" target=\"_blank\">按这裡预"
-"览你的电子邮件范本</a>，更进一步的控制可以複製 <code>woocommerce/templates/"
+"本节让你自订 WooCommerce 电子邮件. <a href=\"%s\" target=\"_blank\">按这里预"
+"览你的电子邮件模板</a>，更进一步的控制可以复制 <code>woocommerce/templates/"
 "emails/</code> 到 <code>yourtheme/woocommerce/emails/</code>。"
 
 #: includes/admin/settings/class-wc-settings-emails.php:100
@@ -4272,7 +4272,7 @@ msgstr "基本颜色"
 msgid ""
 "The base colour for WooCommerce email templates. Default <code>#557da1</"
 "code>."
-msgstr "WooCommerce 电子邮件范本的基本颜色，预设值为<code>#557da1</code>。"
+msgstr "WooCommerce 电子邮件模板的基本颜色，默认值为<code>#557da1</code>。"
 
 #: includes/admin/settings/class-wc-settings-emails.php:130
 msgid "Background Colour"
@@ -4282,7 +4282,7 @@ msgstr "背景颜色"
 msgid ""
 "The background colour for WooCommerce email templates. Default "
 "<code>#f5f5f5</code>."
-msgstr "WooCommerce 电子邮件范本的背景颜色，预设值为<code>#f5f5f5</code>。"
+msgstr "WooCommerce 电子邮件模板的背景颜色，默认值为<code>#f5f5f5</code>。"
 
 #: includes/admin/settings/class-wc-settings-emails.php:140
 msgid "Email Body Background Colour"
@@ -4290,7 +4290,7 @@ msgstr "电子邮件主体背景颜色"
 
 #: includes/admin/settings/class-wc-settings-emails.php:141
 msgid "The main body background colour. Default <code>#fdfdfd</code>."
-msgstr "主体背景颜色，预设值为 <code>#fdfdfd</code>。"
+msgstr "主体背景颜色，默认值为 <code>#fdfdfd</code>。"
 
 #: includes/admin/settings/class-wc-settings-emails.php:150
 msgid "Email Body Text Colour"
@@ -4298,7 +4298,7 @@ msgstr "电子邮件内文文字颜色"
 
 #: includes/admin/settings/class-wc-settings-emails.php:151
 msgid "The main body text colour. Default <code>#505050</code>."
-msgstr "主体文字颜色，预设值为 <code>#505050</code>。"
+msgstr "主体文字颜色，默认值为 <code>#505050</code>。"
 
 #: includes/admin/settings/class-wc-settings-general.php:50
 msgid "General Options"
@@ -4337,13 +4337,13 @@ msgstr "特定国家"
 
 #: includes/admin/settings/class-wc-settings-general.php:87
 msgid "Default Customer Address"
-msgstr "预设顾客所在地址"
+msgstr "默认顾客所在地址"
 
 #: includes/admin/settings/class-wc-settings-general.php:89
 msgid ""
 "This option determines the customers default address (before they input "
 "their details)."
-msgstr "此选项决定顾客的预设地址 (在他们输入资料之前)"
+msgstr "此选项决定顾客的默认地址 (在他们输入资料之前)"
 
 #: includes/admin/settings/class-wc-settings-general.php:90
 msgid ""
@@ -4351,8 +4351,8 @@ msgid ""
 "Database%s will be periodically downloaded and stored in your wp-content "
 "directory."
 msgstr ""
-"注意：如果你选择使用者地址的地理位置的话. %sMaxMind 地理资料库%s 将会定期下载"
-"并储存到你的 wp-content 资料夹."
+"注意：如果你选择使用者地址的地理位置的话. %sMaxMind 地理数据库%s 将会定期下载"
+"并保存到你的 wp-content 资料夹."
 
 #: includes/admin/settings/class-wc-settings-general.php:95
 msgid "No address"
@@ -4410,7 +4410,7 @@ msgstr "货币"
 msgid ""
 "This controls what currency prices are listed at in the catalog and which "
 "currency gateways will take payments in."
-msgstr "此项控制哪些币别会列出来以及金流接受哪些币别。"
+msgstr "此项控制哪些币别会列出来以及网关接受哪些币别。"
 
 #: includes/admin/settings/class-wc-settings-general.php:144
 #: includes/admin/views/html-admin-page-status-report.php:413
@@ -4444,7 +4444,7 @@ msgstr "千位分隔符"
 
 #: includes/admin/settings/class-wc-settings-general.php:162
 msgid "This sets the thousand separator of displayed prices."
-msgstr "设定显示价格的千位分隔符"
+msgstr "设置显示价格的千位分隔符"
 
 #: includes/admin/settings/class-wc-settings-general.php:171
 #: includes/admin/views/html-admin-page-status-report.php:423
@@ -4453,7 +4453,7 @@ msgstr "小数点符号"
 
 #: includes/admin/settings/class-wc-settings-general.php:172
 msgid "This sets the decimal separator of displayed prices."
-msgstr "设定显示价格的小数点符号"
+msgstr "设置显示价格的小数点符号"
 
 #: includes/admin/settings/class-wc-settings-general.php:181
 #: includes/admin/views/html-admin-page-status-report.php:428
@@ -4462,7 +4462,7 @@ msgstr "小数位数"
 
 #: includes/admin/settings/class-wc-settings-general.php:182
 msgid "This sets the number of decimal points shown in displayed prices."
-msgstr "设定显示价格的小数位数"
+msgstr "设置显示价格的小数位数"
 
 #: includes/admin/settings/class-wc-settings-integrations.php:28
 msgid "Integration"
@@ -4488,13 +4488,13 @@ msgstr "商店页面"
 #: includes/admin/settings/class-wc-settings-products.php:93
 msgid ""
 "The base page can also be used in your <a href=\"%s\">product permalinks</a>."
-msgstr "这些起点页面也适用于你的<a href=\"%s\">商品固定网址</a>设定。."
+msgstr "这些依据页面也适用于你的<a href=\"%s\">商品固定网址</a>设置。."
 
 #: includes/admin/settings/class-wc-settings-products.php:99
 msgid ""
 "This sets the base page of your shop - this is where your product archive "
 "will be."
-msgstr "这个设定你的商店的起点页面 - 就是你的商品彙整会在的地方"
+msgstr "这个设置你的商店的依据页面 - 就是你的商品存档会在的地方"
 
 #: includes/admin/settings/class-wc-settings-products.php:103
 msgid "Shop Page Display"
@@ -4502,7 +4502,7 @@ msgstr "商店页面显示"
 
 #: includes/admin/settings/class-wc-settings-products.php:104
 msgid "This controls what is shown on the product archive."
-msgstr "此项控制在商品彙整页面显示的内容"
+msgstr "此项控制在商品存档页面显示的内容"
 
 #: includes/admin/settings/class-wc-settings-products.php:111
 #: includes/admin/settings/class-wc-settings-products.php:127
@@ -4520,11 +4520,11 @@ msgstr "显示两者"
 
 #: includes/admin/settings/class-wc-settings-products.php:119
 msgid "Default Category Display"
-msgstr "预设显示分类"
+msgstr "默认显示分类"
 
 #: includes/admin/settings/class-wc-settings-products.php:120
 msgid "This controls what is shown on category archives."
-msgstr "此项控制在分类彙整要显示什麽。"
+msgstr "此项控制在分类存档要显示什么。"
 
 #: includes/admin/settings/class-wc-settings-products.php:128
 msgid "Show subcategories"
@@ -4532,15 +4532,15 @@ msgstr "显示子分类"
 
 #: includes/admin/settings/class-wc-settings-products.php:135
 msgid "Default Product Sorting"
-msgstr "预设商品排序"
+msgstr "默认商品排序"
 
 #: includes/admin/settings/class-wc-settings-products.php:136
 msgid "This controls the default sort order of the catalog."
-msgstr "此项控制分类的预设排列顺序。"
+msgstr "此项控制分类的默认排列顺序。"
 
 #: includes/admin/settings/class-wc-settings-products.php:143
 msgid "Default sorting (custom ordering + name)"
-msgstr "预设排序 (自订顺序 + 名称)"
+msgstr "默认排序 (自订顺序 + 名称)"
 
 #: includes/admin/settings/class-wc-settings-products.php:144
 msgid "Popularity (sales)"
@@ -4572,7 +4572,7 @@ msgstr "成功加入后转至购物车页面"
 
 #: includes/admin/settings/class-wc-settings-products.php:163
 msgid "Enable AJAX add to cart buttons on archives"
-msgstr "在彙整页面启用 AJAX 加到购物车按钮"
+msgstr "在存档页面启用 AJAX 加到购物车按钮"
 
 #: includes/admin/settings/class-wc-settings-products.php:176
 msgid "Product Images"
@@ -4585,12 +4585,12 @@ msgid ""
 "changing these settings you may need to <a href=\"%s\">regenerate your "
 "thumbnails</a>."
 msgstr ""
-"这些设定影响你的型录图片的显示以及大小 - 在前台还是会被 CSS 形式影响. 在变更"
-"这些设定之后你可能需要 <a href=\"%s\">重新产生缩图</a>."
+"这些设置影响你的目录图片的显示以及大小 - 在前台还是会被 CSS 形式影响. 在变更"
+"这些设置之后你可能需要 <a href=\"%s\">重新产生缩图</a>."
 
 #: includes/admin/settings/class-wc-settings-products.php:183
 msgid "Catalog Images"
-msgstr "型录图片"
+msgstr "目录图片"
 
 #: includes/admin/settings/class-wc-settings-products.php:184
 msgid "This size is usually used in product listings"
@@ -4677,7 +4677,7 @@ msgstr "无库存可见度"
 
 #: includes/admin/settings/class-wc-settings-products.php:330
 msgid "Hide out of stock items from the catalog"
-msgstr "在型录隐藏无库存项目"
+msgstr "在目录隐藏无库存项目"
 
 #: includes/admin/settings/class-wc-settings-products.php:337
 msgid "Stock Display Format"
@@ -4701,7 +4701,7 @@ msgstr "永不显示库存数量"
 
 #: includes/admin/settings/class-wc-settings-products.php:368
 msgid "File Download Method"
-msgstr "档案下载方式"
+msgstr "文件下载方式"
 
 #: includes/admin/settings/class-wc-settings-products.php:369
 msgid ""
@@ -4710,9 +4710,9 @@ msgid ""
 "Sendfile</code> can be used to serve downloads instead (server requires "
 "<code>mod_xsendfile</code>)."
 msgstr ""
-"强制下载会保持网址隐藏，但是有些伺服器可能会无法稳定处理大档案，如果支援 "
+"强制下载会保持网址隐藏，但是有些服务器可能会无法稳定处理大文件，如果支持 "
 "<code>X-Accel-Redirect</code>/ <code>X-Sendfile</code> 可以用来取代服务下载 "
-"(伺服器需要安装 <code>mod_xsendfile</code> 模组)"
+"(服务器需要安装 <code>mod_xsendfile</code> 模块)"
 
 #: includes/admin/settings/class-wc-settings-products.php:377
 msgid "Force Downloads"
@@ -4732,11 +4732,11 @@ msgstr "存取限制"
 
 #: includes/admin/settings/class-wc-settings-products.php:386
 msgid "Downloads require login"
-msgstr "下载前需登入"
+msgstr "下载前需登录"
 
 #: includes/admin/settings/class-wc-settings-products.php:390
 msgid "This setting does not apply to guest purchases."
-msgstr "此项设定不适用于访客购物"
+msgstr "此项设置不适用于访客购物"
 
 #: includes/admin/settings/class-wc-settings-products.php:396
 msgid "Grant access to downloadable products after payment"
@@ -4759,7 +4759,7 @@ msgstr "重量单位"
 
 #: includes/admin/settings/class-wc-settings-products.php:422
 msgid "This controls what unit you will define weights in."
-msgstr "设定您所使用的重量单位。"
+msgstr "设置您所使用的重量单位。"
 
 #: includes/admin/settings/class-wc-settings-products.php:429
 msgid "kg"
@@ -4783,7 +4783,7 @@ msgstr "规格单位"
 
 #: includes/admin/settings/class-wc-settings-products.php:439
 msgid "This controls what unit you will define lengths in."
-msgstr "设定您所使用的长度单位。"
+msgstr "设置您所使用的长度单位。"
 
 #: includes/admin/settings/class-wc-settings-products.php:447
 msgid "cm"
@@ -4795,7 +4795,7 @@ msgstr "公厘"
 
 #: includes/admin/settings/class-wc-settings-products.php:449
 msgid "in"
-msgstr "英吋"
+msgstr "英寸"
 
 #: includes/admin/settings/class-wc-settings-products.php:450
 msgid "yd"
@@ -4811,7 +4811,7 @@ msgstr "在评论中启用评分"
 
 #: includes/admin/settings/class-wc-settings-products.php:479
 msgid "Ratings are required to leave a review"
-msgstr "填写评论也必须一併评分"
+msgstr "填写评论也必须一并评分"
 
 #: includes/admin/settings/class-wc-settings-products.php:489
 msgid "Show \"verified owner\" label for customer reviews"
@@ -4824,7 +4824,7 @@ msgstr "只允许\"已确认购买\"者写评论"
 #: includes/admin/settings/class-wc-settings-shipping.php:43
 #: includes/admin/settings/class-wc-settings-shipping.php:71
 msgid "Shipping Options"
-msgstr "运送选项"
+msgstr "配送选项"
 
 #: includes/admin/settings/class-wc-settings-shipping.php:74
 msgid "Shipping Calculations"
@@ -4840,24 +4840,24 @@ msgstr "在购物车页面启用运费计算器"
 
 #: includes/admin/settings/class-wc-settings-shipping.php:92
 msgid "Hide shipping costs until an address is entered"
-msgstr "在地址尚未输入之前隐藏运送费用"
+msgstr "在地址尚未输入之前隐藏配送费用"
 
 #: includes/admin/settings/class-wc-settings-shipping.php:101
 msgid "Shipping Display Mode"
-msgstr "运送方式显示模式"
+msgstr "配送方式显示模式"
 
 #: includes/admin/settings/class-wc-settings-shipping.php:102
 msgid ""
 "This controls how multiple shipping methods are displayed on the frontend."
-msgstr "这裡控制有多少项运送方式在前台显示。"
+msgstr "这里控制有多少项配送方式在前台显示。"
 
 #: includes/admin/settings/class-wc-settings-shipping.php:107
 msgid "Display shipping methods with \"radio\" buttons"
-msgstr "显示运送方式为选择按钮"
+msgstr "显示配送方式为选择按钮"
 
 #: includes/admin/settings/class-wc-settings-shipping.php:108
 msgid "Display shipping methods in a dropdown"
-msgstr "显示运送方式为下拉选单"
+msgstr "显示配送方式为下拉选单"
 
 #: includes/admin/settings/class-wc-settings-shipping.php:115
 msgid "Shipping Destination"
@@ -4865,15 +4865,15 @@ msgstr "配送目的地"
 
 #: includes/admin/settings/class-wc-settings-shipping.php:116
 msgid "This controls which shipping address is used by default."
-msgstr "此项控制预设的运送地址为何"
+msgstr "此项控制默认的配送地址为何"
 
 #: includes/admin/settings/class-wc-settings-shipping.php:121
 msgid "Default to shipping address"
-msgstr "预设运送地址"
+msgstr "默认配送地址"
 
 #: includes/admin/settings/class-wc-settings-shipping.php:122
 msgid "Default to billing address"
-msgstr "预设帐单地址"
+msgstr "默认帐单地址"
 
 #: includes/admin/settings/class-wc-settings-shipping.php:123
 msgid "Only ship to the users billing address"
@@ -4916,17 +4916,17 @@ msgstr "自动排列"
 
 #: includes/admin/settings/class-wc-settings-shipping.php:249
 msgid "The cheapest available shipping method will be selected by default."
-msgstr "最便宜的可用配送方式将会设为预设值。"
+msgstr "最便宜的可用配送方式将会设为默认值。"
 
 #: includes/admin/settings/class-wc-settings-shipping.php:250
 msgid ""
 "Drag and drop the above shipping methods to control their display order."
-msgstr "拖拉以上的运送方式来控制显示顺序"
+msgstr "拖拽以上的配送方式来控制显示顺序"
 
 #: includes/admin/settings/class-wc-settings-tax.php:39
 #: includes/admin/settings/views/settings-tax.php:9
 msgid "Tax Options"
-msgstr "税金选项"
+msgstr "税费选项"
 
 #: includes/admin/settings/class-wc-settings-tax.php:40
 msgid "Standard Rates"
@@ -4939,42 +4939,42 @@ msgstr "%s 税率"
 #: includes/admin/settings/class-wc-settings-webhooks.php:27
 #: includes/admin/settings/class-wc-settings-webhooks.php:91
 msgid "Webhooks"
-msgstr "网页连结"
+msgstr "网页连接"
 
 #: includes/admin/settings/class-wc-settings-webhooks.php:63
 msgid "1 webhook moved to the Trash."
 msgid_plural "%d webhooks moved to the Trash."
-msgstr[0] "%d 网页连结移到回收筒"
+msgstr[0] "%d 网页连接移到回收站"
 
 #: includes/admin/settings/class-wc-settings-webhooks.php:69
 msgid "1 webhook restored from the Trash."
 msgid_plural "%d webhooks restored from the Trash."
-msgstr[0] "%d 网页连结由回收筒回复"
+msgstr[0] "%d 网页连接由回收站回复"
 
 #: includes/admin/settings/class-wc-settings-webhooks.php:75
 msgid "1 webhook permanently deleted."
 msgid_plural "%d webhooks permanently deleted."
-msgstr[0] "%d 网页连结永久删除"
+msgstr[0] "%d 网页连接永久删除"
 
 #: includes/admin/settings/class-wc-settings-webhooks.php:79
 msgid "Webhook updated successfully."
-msgstr "网页连结成功更新"
+msgstr "网页连接成功更新"
 
 #: includes/admin/settings/class-wc-settings-webhooks.php:83
 msgid "Webhook created successfully."
-msgstr "网页连结成功新增"
+msgstr "网页连接成功新增"
 
 #: includes/admin/settings/class-wc-settings-webhooks.php:91
 msgid "Add Webhook"
-msgstr "新增网页连结"
+msgstr "新增网页连接"
 
 #: includes/admin/settings/class-wc-settings-webhooks.php:100
 msgid "Search Webhooks"
-msgstr "搜寻网页连结"
+msgstr "搜索网页连接"
 
 #: includes/admin/settings/class-wc-settings-webhooks.php:140
 msgid "This Webhook has no log yet."
-msgstr "此网页连结还没有记录"
+msgstr "此网页连接还没有记录"
 
 #: includes/admin/settings/class-wc-settings-webhooks.php:213
 #: includes/admin/settings/class-wc-settings-webhooks.php:215
@@ -4995,29 +4995,29 @@ msgid ""
 "Define tax rates for countries and states below. <a href=\"%s\">See here</a> "
 "for available alpha-2 country codes."
 msgstr ""
-"在底下定义国家或州的税率，<a href=\"%s\">请看这裡</a> 有完整的 2 字元国家代"
+"在底下定义国家或州的税率，<a href=\"%s\">请看这里</a> 有完整的 2 字符国家代"
 "码."
 
 #: includes/admin/settings/views/html-settings-tax.php:13
 msgid "Country&nbsp;Code"
-msgstr "国码&nbsp;"
+msgstr "国家代码&nbsp;"
 
 #: includes/admin/settings/views/html-settings-tax.php:13
 msgid "A 2 digit country code, e.g. US. Leave blank to apply to all."
-msgstr "2 字元国码，例如 TW。留空白适用于全部。"
+msgstr "2 位国家代码，例如 TW。留空白适用于全部。"
 
 #: includes/admin/settings/views/html-settings-tax.php:15
 msgid "State&nbsp;Code"
-msgstr "州码&nbsp;"
+msgstr "州代码&nbsp;"
 
 #: includes/admin/settings/views/html-settings-tax.php:15
 msgid "A 2 digit state code, e.g. AL. Leave blank to apply to all."
-msgstr "2 字元州码，例如 AL。留空白适用于全部。"
+msgstr "2 位州代码，例如 AL。留空白适用于全部。"
 
 #: includes/admin/settings/views/html-settings-tax.php:17
 #: includes/admin/settings/views/html-settings-tax.php:148
 msgid "ZIP/Postcode"
-msgstr "邮递区号"
+msgstr "邮政编码"
 
 #: includes/admin/settings/views/html-settings-tax.php:17
 msgid ""
@@ -5025,8 +5025,8 @@ msgid ""
 "to apply to all areas. Wildcards (*) can be used. Ranges for numeric "
 "postcodes (e.g. 12345-12350) will be expanded into individual postcodes."
 msgstr ""
-"用于此规则的邮递区号，用半形冒号 (:) 分隔多个数值，留空白套用于全区。可以使用"
-"万用字元 (*)。邮递区号数值的范围 (例如 12345-12350) 将被解读为个别的邮递区"
+"用于此规则的邮政编码，用半形冒号 (:) 分隔多个数值，留空白套用于全区。可以使用"
+"通配符 (*)。邮政编码数值的范围 (例如 12345-12350) 将被解读为个别的邮递区"
 "号。"
 
 #: includes/admin/settings/views/html-settings-tax.php:19
@@ -5068,21 +5068,21 @@ msgstr ""
 #: includes/admin/settings/views/html-settings-tax.php:27
 #: includes/admin/settings/views/html-settings-tax.php:148
 msgid "Compound"
-msgstr "複合"
+msgstr "复合"
 
 #: includes/admin/settings/views/html-settings-tax.php:27
 msgid ""
 "Choose whether or not this is a compound rate. Compound tax rates are "
 "applied on top of other tax rates."
-msgstr "选择这个是否为複合税率，複合税率会比其他税率优先采用"
+msgstr "选择这个是否为复合税率，复合税率会比其他税率优先采用"
 
 #: includes/admin/settings/views/html-settings-tax.php:29
 msgid "Choose whether or not this tax rate also gets applied to shipping."
-msgstr "选择是否这个税率也套用于运费"
+msgstr "选择是否这个税率也应用于运费"
 
 #: includes/admin/settings/views/html-settings-tax.php:48
 msgid "Tax rate ID"
-msgstr "税率代码"
+msgstr "税率ID"
 
 #: includes/admin/settings/views/html-settings-tax.php:101
 msgid "Insert row"
@@ -5094,7 +5094,7 @@ msgstr "移除所选列"
 
 #: includes/admin/settings/views/html-settings-tax.php:120
 msgid "Import CSV"
-msgstr "汇入 CSV"
+msgstr "导入 CSV"
 
 #: includes/admin/settings/views/html-settings-tax.php:141
 msgid "No row(s) selected"
@@ -5102,15 +5102,15 @@ msgstr "未选择列"
 
 #: includes/admin/settings/views/html-settings-tax.php:148
 msgid "Country Code"
-msgstr "国码"
+msgstr "国家代码"
 
 #: includes/admin/settings/views/html-settings-tax.php:148
 msgid "State Code"
-msgstr "州码"
+msgstr "州代码"
 
 #: includes/admin/settings/views/html-settings-tax.php:148
 msgid "Tax Name"
-msgstr "税金名称"
+msgstr "税种名称"
 
 #: includes/admin/settings/views/html-webhook-log.php:13
 msgid "Method"
@@ -5147,13 +5147,13 @@ msgstr "回应"
 
 #: includes/admin/settings/views/html-webhooks-edit.php:10
 msgid "Webhook Data"
-msgstr "网页连结资料"
+msgstr "网页连接数据"
 
 #: includes/admin/settings/views/html-webhooks-edit.php:16
 msgid ""
 "Friendly name for identifying this webhook, defaults to Webhook created on "
 "%s."
-msgstr "容易记住的网页连结名称. 预设为  网页连结产生于 %s."
+msgstr "容易记住的网页连接名称. 默认为  网页连接产生于 %s."
 
 #: includes/admin/settings/views/html-webhooks-edit.php:25
 msgid ""
@@ -5166,7 +5166,7 @@ msgstr ""
 
 #: includes/admin/settings/views/html-webhooks-edit.php:42
 msgid "Select when the webhook will fire."
-msgstr "选择网页连结启动时间"
+msgstr "选择网页连接启动时间"
 
 #: includes/admin/settings/views/html-webhooks-edit.php:51
 msgid "Coupon Created"
@@ -5230,19 +5230,19 @@ msgstr "动作项目"
 
 #: includes/admin/settings/views/html-webhooks-edit.php:76
 msgid "Enter the Action that will trigger this webhook."
-msgstr "输入将会触发网页连结的动作"
+msgstr "输入将会触发网页连接的动作"
 
 #: includes/admin/settings/views/html-webhooks-edit.php:84
 msgid "Custom Topic"
-msgstr "自订主旨"
+msgstr "自订主题"
 
 #: includes/admin/settings/views/html-webhooks-edit.php:85
 msgid "Enter the Custom Topic that will trigger this webhook."
-msgstr "输入将会触发此网页连结的自订主旨"
+msgstr "输入将会触发此网页连接的自订主题"
 
 #: includes/admin/settings/views/html-webhooks-edit.php:94
 msgid "URL where the webhook payload is delivered."
-msgstr "网页连结载体传送网址"
+msgstr "网页连接载体传送网址"
 
 #: includes/admin/settings/views/html-webhooks-edit.php:102
 msgid "Secret"
@@ -5254,12 +5254,12 @@ msgid ""
 "provided in the request headers. This will default to the current API user's "
 "consumer secret if not provided."
 msgstr ""
-"此私钥是用来产生在所提供的请求标头派送网页连结的杂凑数. 如果未提供的话将会预"
+"此私钥是用来产生在所提供的请求标头派送网页连接的杂凑数. 如果未提供的话将会预"
 "设为目前使用者的顾客私钥"
 
 #: includes/admin/settings/views/html-webhooks-edit.php:116
 msgid "Webhook Actions"
-msgstr "网页连结动作"
+msgstr "网页连接动作"
 
 #: includes/admin/settings/views/html-webhooks-edit.php:123
 #: includes/admin/settings/views/html-webhooks-edit.php:132
@@ -5272,23 +5272,23 @@ msgstr "更新于"
 
 #: includes/admin/settings/views/html-webhooks-edit.php:151
 msgid "Save Webhook"
-msgstr "储存网页连结"
+msgstr "保存网页连接"
 
 #: includes/admin/settings/views/html-webhooks-edit.php:163
 msgid "Webhook Logs"
-msgstr "网页连结记录"
+msgstr "网页连接记录"
 
 #: includes/admin/settings/views/settings-tax.php:12
 msgid "Enable Taxes"
-msgstr "启用税金"
+msgstr "启用税费"
 
 #: includes/admin/settings/views/settings-tax.php:13
 msgid "Enable taxes and tax calculations"
-msgstr "启用税金及税金计算"
+msgstr "启用税费及税费计算"
 
 #: includes/admin/settings/views/settings-tax.php:20
 msgid "Prices Entered With Tax"
-msgstr "售价包含税金"
+msgstr "售价包含税费"
 
 #: includes/admin/settings/views/settings-tax.php:24
 msgid ""
@@ -5298,19 +5298,19 @@ msgstr "这个选项很重要它将会影响你如何输入价格，变更此项
 
 #: includes/admin/settings/views/settings-tax.php:26
 msgid "Yes, I will enter prices inclusive of tax"
-msgstr "是，我将输入包含税金的售价。"
+msgstr "是，我将输入包含税费的售价。"
 
 #: includes/admin/settings/views/settings-tax.php:27
 msgid "No, I will enter prices exclusive of tax"
-msgstr "不，我将输入不含税金的售价。"
+msgstr "不，我将输入不含税费的售价。"
 
 #: includes/admin/settings/views/settings-tax.php:32
 msgid "Calculate Tax Based On:"
-msgstr "税金计算依据："
+msgstr "税费计算依据："
 
 #: includes/admin/settings/views/settings-tax.php:34
 msgid "This option determines which address is used to calculate tax."
-msgstr "此选项决定使用哪个地址来计算税金。"
+msgstr "此选项决定使用哪个地址来计算税费。"
 
 #: includes/admin/settings/views/settings-tax.php:39
 msgid "Customer shipping address"
@@ -5322,27 +5322,27 @@ msgstr "顾客帐单地址"
 
 #: includes/admin/settings/views/settings-tax.php:46
 msgid "Shipping Tax Class:"
-msgstr "运送税金级距："
+msgstr "配送税费类型："
 
 #: includes/admin/settings/views/settings-tax.php:47
 msgid ""
 "Optionally control which tax class shipping gets, or leave it so shipping "
 "tax is based on the cart items themselves."
 msgstr ""
-"选择性地控制运费进入或是离开某个税金级距，这样子运费税金自己会依据购物车项目"
+"选择性地控制运费进入或是离开某个税费类型，这样子运费税费自己会依据购物车项目"
 "而定"
 
 #: includes/admin/settings/views/settings-tax.php:53
 msgid "Shipping tax class based on cart items"
-msgstr "依据购物车内容项目决定配送税金级距"
+msgstr "依据购物车内容项目决定配送税费类型"
 
 #: includes/admin/settings/views/settings-tax.php:58
 msgid "Rounding"
-msgstr "四捨五入"
+msgstr "四舍五入"
 
 #: includes/admin/settings/views/settings-tax.php:59
 msgid "Round tax at subtotal level, instead of rounding per line"
-msgstr "先加总之后再四捨五入。"
+msgstr "先加总之后再四舍五入。"
 
 #: includes/admin/settings/views/settings-tax.php:66
 msgid "Additional Tax Classes"
@@ -5353,7 +5353,7 @@ msgid ""
 "List additional tax classes below (1 per line). This is in addition to the "
 "default \"Standard Rate\"."
 msgstr ""
-"底下列出额外的税率级距 (1 列 1 个). 这是在预设的 \"标准税率\" 之外附加的"
+"下面列出额外的税率类型 (1 列 1 个). 这是在默认的 \"标准税率\" 之外附加的"
 
 #: includes/admin/settings/views/settings-tax.php:71
 msgid "Reduced Rate%sZero Rate"
@@ -5371,7 +5371,7 @@ msgstr "含税"
 #: includes/admin/settings/views/settings-tax.php:82
 #: includes/admin/settings/views/settings-tax.php:94
 msgid "Excluding tax"
-msgstr "未税"
+msgstr "未含税"
 
 #: includes/admin/settings/views/settings-tax.php:87
 msgid "Display Prices During Cart and Checkout:"
@@ -5389,16 +5389,16 @@ msgid ""
 "{price_excluding_tax}."
 msgstr ""
 "指定要在你商品价格后面显示的文字. 这可能是, 例如: \"含税\" 来说明你的价格. 你"
-"也可以让这裡的价格以下列之一来替换: {price_including_tax}, "
+"也可以让这里的价格以下列之一来替换: {price_including_tax}, "
 "{price_excluding_tax}."
 
 #: includes/admin/settings/views/settings-tax.php:109
 msgid "Display Tax Totals:"
-msgstr "显示税金总计:"
+msgstr "显示税费总计:"
 
 #: includes/admin/settings/views/settings-tax.php:115
 msgid "As a single total"
-msgstr "合计为一个"
+msgstr "总计"
 
 #: includes/admin/settings/views/settings-tax.php:116
 msgid "Itemized"
@@ -5414,15 +5414,15 @@ msgstr "受欢迎"
 
 #: includes/admin/views/html-admin-page-addons.php:28
 msgid "Gateways"
-msgstr "金流"
+msgstr "网关"
 
 #: includes/admin/views/html-admin-page-addons.php:30
 msgid "Import/export"
-msgstr "汇入/汇出"
+msgstr "导入/导出"
 
 #: includes/admin/views/html-admin-page-addons.php:32
 msgid "Marketing"
-msgstr "行销"
+msgstr "市场"
 
 #: includes/admin/views/html-admin-page-addons.php:33
 msgid "Accounting"
@@ -5441,16 +5441,16 @@ msgid ""
 "Our catalog of WooCommerce Extensions can be found on WooThemes.com here: <a "
 "href=\"%s\">WooCommerce Extensions Catalog</a>"
 msgstr ""
-"我们 WooCommerce 扩充模组的型录可以在WooThemes.com 的:  <a href=\"%s"
+"我们 WooCommerce 扩充模块的目录可以在WooThemes.com 的:  <a href=\"%s"
 "\">WooCommerce Extensions Catalog</a> 找到"
 
 #: includes/admin/views/html-admin-page-addons.php:103
 msgid "Looking for a WooCommerce theme?"
-msgstr "您在找 WooCommerce 合用的佈景主题吗?"
+msgstr "您在找 WooCommerce 可用的主题吗?"
 
 #: includes/admin/views/html-admin-page-addons.php:106
 msgid "We recommend Storefront, the %sofficial%s WooCommerce theme."
-msgstr "我们建议 Storefront, 这是 %s官方的%s WooCommerce 佈景主题."
+msgstr "我们建议 Storefront, 这是 %s官方的%s WooCommerce 主题."
 
 #: includes/admin/views/html-admin-page-addons.php:110
 msgid ""
@@ -5458,7 +5458,7 @@ msgid ""
 "deep integration with WooCommerce and many of the most popular customer-"
 "facing extensions."
 msgstr ""
-"Storefront 是一个直觉 &amp; 多变化, %s免费%s 的WordPress 佈景主题提供与 "
+"Storefront 是一个直觉 &amp; 多变化, %s免费%s 的WordPress 主题提供与 "
 "WooCommerce 深度整合以及许多最受顾客欢迎的扩充功能."
 
 #: includes/admin/views/html-admin-page-addons.php:114
@@ -5471,17 +5471,17 @@ msgstr "下载 &amp; 安装"
 
 #: includes/admin/views/html-admin-page-status-logs.php:15
 msgid "Log file: %s (%s)"
-msgstr "记录档: %s (%s)"
+msgstr "日志文件: %s (%s)"
 
 #: includes/admin/views/html-admin-page-status-logs.php:33
 msgid "There are currently no logs to view."
-msgstr "目前没有记录可以查看"
+msgstr "目前没有日志可以查看"
 
 #: includes/admin/views/html-admin-page-status-report.php:13
 msgid ""
 "Please copy and paste this information in your ticket when contacting "
 "support:"
-msgstr "有连络支援服务时请将这些资讯複製/贴上到你开的票上"
+msgstr "有联系支持服务时请将这些信息复制/贴上到你开的票上"
 
 #: includes/admin/views/html-admin-page-status-report.php:14
 msgid "Get System Report"
@@ -5489,15 +5489,15 @@ msgstr "取得系统报表"
 
 #: includes/admin/views/html-admin-page-status-report.php:15
 msgid "Understanding the Status Report"
-msgstr "瞭解状态报表"
+msgstr "了解状态报表"
 
 #: includes/admin/views/html-admin-page-status-report.php:18
 msgid "Copied!"
-msgstr "已複製"
+msgstr "已复制"
 
 #: includes/admin/views/html-admin-page-status-report.php:18
 msgid "Copy for Support"
-msgstr "为支援複製"
+msgstr "为支持复制"
 
 #: includes/admin/views/html-admin-page-status-report.php:25
 msgid "WordPress Environment"
@@ -5529,13 +5529,13 @@ msgstr "在你网站安装的 WooCommerce 版本"
 
 #: includes/admin/views/html-admin-page-status-report.php:45
 msgid "WC Database Version"
-msgstr "WC 资料库版本"
+msgstr "WC 数据库版本"
 
 #: includes/admin/views/html-admin-page-status-report.php:46
 msgid ""
 "The version of WooCommerce that the database is formatted for. This should "
 "be the same as your WooCommerce Version."
-msgstr "资料库格式的 WooCommerce 版本. 这应该与你的 WooCommerce 版本一样"
+msgstr "数据库格式的 WooCommerce 版本. 这应该与你的 WooCommerce 版本一样"
 
 #: includes/admin/views/html-admin-page-status-report.php:50
 msgid "Log Directory Writable"
@@ -5574,23 +5574,23 @@ msgstr "WordPress Multisite 多站台是否启用"
 
 #: includes/admin/views/html-admin-page-status-report.php:71
 msgid "WP Memory Limit"
-msgstr "WP 记忆体限制"
+msgstr "WP 内存限制"
 
 #: includes/admin/views/html-admin-page-status-report.php:72
 msgid "The maximum amount of memory (RAM) that your site can use at one time."
-msgstr "你的网站一次可以使用的最大记忆体容量 (RAM)"
+msgstr "你的网站一次可以使用的最大内存容量 (RAM)"
 
 #: includes/admin/views/html-admin-page-status-report.php:77
 msgid ""
 "%s - We recommend setting memory to at least 64MB. See: <a href=\"%s\" "
 "target=\"_blank\">Increasing memory allocated to PHP</a>"
 msgstr ""
-"%s - 我们建议设定至少 64MB 的记忆体. 请看: <a href=\"%s\" target=\"_blank\">"
-"增加 PHP 的记忆体配额</a>"
+"%s - 我们建议设置至少 64MB 的内存. 请看: <a href=\"%s\" target=\"_blank\">"
+"增加 PHP 的内存配额</a>"
 
 #: includes/admin/views/html-admin-page-status-report.php:84
 msgid "WP Debug Mode"
-msgstr "WP 侦错模式"
+msgstr "WP 除错模式"
 
 #: includes/admin/views/html-admin-page-status-report.php:85
 msgid "Displays whether or not WordPress is in Debug Mode."
@@ -5602,7 +5602,7 @@ msgstr "语系"
 
 #: includes/admin/views/html-admin-page-status-report.php:90
 msgid "The current language used by WordPress. Default = English"
-msgstr "目前 WordPress 使用的语系. 预设 = 英文"
+msgstr "目前 WordPress 使用的语系. 默认 = 英文"
 
 #: includes/admin/views/html-admin-page-status-report.php:98
 msgid "Server Environment"
@@ -5610,11 +5610,11 @@ msgstr "主机环境"
 
 #: includes/admin/views/html-admin-page-status-report.php:103
 msgid "Server Info"
-msgstr "主机资讯"
+msgstr "主机信息"
 
 #: includes/admin/views/html-admin-page-status-report.php:104
 msgid "Information about the web server that is currently hosting your site."
-msgstr "目前网站所使用网页主机的资讯"
+msgstr "目前网站所使用网页主机的信息"
 
 #: includes/admin/views/html-admin-page-status-report.php:108
 msgid "PHP Version"
@@ -5634,7 +5634,7 @@ msgstr ""
 
 #: includes/admin/views/html-admin-page-status-report.php:121
 msgid "Couldn't determine PHP version because phpversion() doesn't exist."
-msgstr "无法侦测 PHP 版本因为 phpversion() 不存在"
+msgstr "无法获取 PHP 版本因为 phpversion() 不存在"
 
 #: includes/admin/views/html-admin-page-status-report.php:127
 msgid "PHP Post Max Size"
@@ -5652,7 +5652,7 @@ msgstr "PHP Time Limit"
 msgid ""
 "The amount of time (in seconds) that your site will spend on a single "
 "operation before timing out (to avoid server lockups)"
-msgstr "你的网站花费在单一作业逾时的最长时间 (秒数) (以避免主机卡住)"
+msgstr "你的网站花费在单一作业超时的最长时间 (秒数) (以避免主机卡住)"
 
 #: includes/admin/views/html-admin-page-status-report.php:137
 msgid "PHP Max Input Vars"
@@ -5677,9 +5677,9 @@ msgid ""
 "enabled on your server, Suhosin may need to be configured to increase its "
 "data submission limits."
 msgstr ""
-"Suhosin 是一套进阶的 PHP 防护系统. 它是为了保护你的 Server 和对抗数种有问题 "
-"PHP 应用程式而设计，同时也能保护那些应用程式中的未知潜在漏洞或 PHP 核心自己本"
-"身. 当你的主机启用了 Suhosin , 你可能需要提升数据提交量的限制设定."
+"Suhosin 是一套高级的PHP程序防护系统. 一方面它可以针对已知的数种PHP应用"
+"程序问题另一方面，也能对未知的应用程序漏洞和PHP本身的漏洞，来防护应用"
+"程序不受入侵。启用Suhosin , 你可能需要配置数据提交数量的限制设置."
 
 #: includes/admin/views/html-admin-page-status-report.php:148
 msgid "MySQL Version"
@@ -5691,24 +5691,24 @@ msgstr "你的网站主机安装的 MySQL 版本"
 
 #: includes/admin/views/html-admin-page-status-report.php:159
 msgid "Max Upload Size"
-msgstr "最大档案上传大小"
+msgstr "最大文件上传大小"
 
 #: includes/admin/views/html-admin-page-status-report.php:160
 msgid ""
 "The largest filesize that can be uploaded to your WordPress installation."
-msgstr "可以上传到你 WordPress 的最大档案大小"
+msgstr "可以上传到你 WordPress 的最大文件大小"
 
 #: includes/admin/views/html-admin-page-status-report.php:164
 msgid "Default Timezone is UTC"
-msgstr "预设时区为 UTC"
+msgstr "默认时区为 UTC"
 
 #: includes/admin/views/html-admin-page-status-report.php:165
 msgid "The default timezone for your server."
-msgstr "你主机的预设时区"
+msgstr "你主机的默认时区"
 
 #: includes/admin/views/html-admin-page-status-report.php:169
 msgid "Default timezone is %s - it should be UTC"
-msgstr "预设时区为 %s - 应该为 UTC"
+msgstr "默认时区为 %s - 应该为 UTC"
 
 #: includes/admin/views/html-admin-page-status-report.php:180
 msgid ""
@@ -5716,7 +5716,7 @@ msgid ""
 "authorize payments, other plugins may also use it when communicating with "
 "remote services."
 msgstr ""
-"付款金流可以利用 cURL 跟远端主机沟通来授权付款. 其他外挂也可以利用它跟远端服"
+"付款网关可以利用 cURL 跟远端主机沟通来授权付款. 其他插件也可以利用它跟远端服"
 "务沟通"
 
 #: includes/admin/views/html-admin-page-status-report.php:186
@@ -5725,7 +5725,7 @@ msgid ""
 "scripts which communicate with other servers will not work. Contact your "
 "hosting provider."
 msgstr ""
-"你的伺服器未启用 fsockopen 或 cURL - PayPal IPN 及需与其他伺服器通讯的脚本将"
+"你的服务器未启用 fsockopen 或 cURL - PayPal IPN 及需与其他服务器通讯的脚本将"
 "无法使用。请与你的主机服务商联络。 "
 
 #: includes/admin/views/html-admin-page-status-report.php:191
@@ -5734,7 +5734,7 @@ msgid ""
 "servers, for example, live shipping quotes from FedEx require SOAP to be "
 "installed."
 msgstr ""
-"有些网页服务像是运送使用 SOAP 来从远端主机取得资讯. 例如:  FedEX 的线上运送查"
+"有些网页服务像是配送使用 SOAP 来从远端主机取得信息. 例如:  FedEX 的线上配送查"
 "询就需要安装 SOAP."
 
 #: includes/admin/views/html-admin-page-status-report.php:197
@@ -5742,13 +5742,13 @@ msgid ""
 "Your server does not have the <a href=\"%s\">SOAP Client</a> class enabled - "
 "some gateway plugins which use SOAP may not work as expected."
 msgstr ""
-"你的伺服器未启用 <a href=\"%s\">SOAP Client</a> 模组 - 某些使用 SOAP 的金流外"
+"你的服务器未启用 <a href=\"%s\">SOAP Client</a> 模块 - 某些使用 SOAP 的网关外"
 "挂可能无法像预期那样运作"
 
 #: includes/admin/views/html-admin-page-status-report.php:202
 msgid ""
 "HTML/Multipart emails use DOMDocument to generate inline CSS in templates."
-msgstr "HTML/Multipart 电子邮件使用 DOMDocument 来产生范本档中的 inline CSS."
+msgstr "HTML/Multipart 电子邮件使用 DOMDocument 来产生模板档中的 inline CSS."
 
 #: includes/admin/views/html-admin-page-status-report.php:208
 msgid ""
@@ -5756,12 +5756,12 @@ msgid ""
 "HTML/Multipart emails, and also some extensions, will not work without "
 "DOMDocument."
 msgstr ""
-"你的伺服器没有启用 <a href=\"%s\">DOMDocument</a>功能  - HTML/Multipart 电子"
+"你的服务器没有启用 <a href=\"%s\">DOMDocument</a>功能  - HTML/Multipart 电子"
 "邮件, 以及某些扩充功能没有 DOMDocument 将无法运作."
 
 #: includes/admin/views/html-admin-page-status-report.php:213
 msgid "GZip (gzopen) is used to open the GEOIP database from MaxMind."
-msgstr "GZip (gzopen) 是用于从 MaxMind 开启 GEOIP 资料库.时使用"
+msgstr "GZip (gzopen) 是用于从 MaxMind 开启 GEOIP 数据库.时使用"
 
 #: includes/admin/views/html-admin-page-status-report.php:219
 msgid ""
@@ -5769,25 +5769,25 @@ msgid ""
 "is required to use the GeoIP database from MaxMind. The API fallback will be "
 "used instead for geolocation."
 msgstr ""
-"你的伺服器不支援 <a href=\"%s\">gzopen</a> 功能 - 这在使用MaxMind 的 GeoIP 资"
-"料库是必备的. 将会改用备用 API 于地理位置资讯."
+"你的服务器不支持 <a href=\"%s\">gzopen</a> 功能 - 这在使用MaxMind 的 GeoIP 资"
+"料库是必备的. 将会改用备用 API 于地理位置信息."
 
 #: includes/admin/views/html-admin-page-status-report.php:223
 msgid "Remote Post"
-msgstr "远端发佈"
+msgstr "远端发布"
 
 #: includes/admin/views/html-admin-page-status-report.php:224
 msgid ""
 "PayPal uses this method of communicating when sending back transaction "
 "information."
-msgstr "PayPa 使用此一通讯方式来回传交易资讯"
+msgstr "PayPa 使用此一通讯方式来回传交易信息"
 
 #: includes/admin/views/html-admin-page-status-report.php:238
 msgid ""
 "wp_remote_post() failed. PayPal IPN won't work with your server. Contact "
 "your hosting provider."
 msgstr ""
-"wp_remote_post() 失败. PayPal IPN 无法与你的主机运作. 请连络你的主机商."
+"wp_remote_post() 失败. PayPal IPN 无法与你的主机运作. 请联系你的主机商."
 
 #: includes/admin/views/html-admin-page-status-report.php:240
 #: includes/admin/views/html-admin-page-status-report.php:258
@@ -5807,14 +5807,14 @@ msgstr "远端接收"
 msgid ""
 "WooCommerce plugins may use this method of communication when checking for "
 "plugin updates."
-msgstr "WooCommerce 外挂可以在检查外挂更新时使用此通讯方式."
+msgstr "WooCommerce 插件可以在检查插件更新时使用此通讯方式."
 
 #: includes/admin/views/html-admin-page-status-report.php:256
 msgid ""
 "wp_remote_get() failed. The WooCommerce plugin updater won't work with your "
 "server. Contact your hosting provider."
 msgstr ""
-"wp_remote_get() 失败. WooCommerce 外挂更新无法在你的主机运作. 请连络你的主机"
+"wp_remote_get() 失败. WooCommerce 插件更新无法在你的主机运作. 请联系你的主机"
 "商."
 
 #: includes/admin/views/html-admin-page-status-report.php:288
@@ -5823,27 +5823,27 @@ msgstr "主机位置"
 
 #: includes/admin/views/html-admin-page-status-report.php:295
 msgid "The character used for decimal points."
-msgstr "用于小数点的字元"
+msgstr "用于小数点的字符"
 
 #: includes/admin/views/html-admin-page-status-report.php:296
 msgid "The character used for a thousands separator."
-msgstr "用于千位分隔的字元"
+msgstr "用于千位分隔的字符"
 
 #: includes/admin/views/html-admin-page-status-report.php:297
 msgid "The character used for decimal points in monetary values."
-msgstr "用于货币数值小数点的字元"
+msgstr "用于货币数值小数点的字符"
 
 #: includes/admin/views/html-admin-page-status-report.php:298
 msgid "The character used for a thousands separator in monetary values."
-msgstr "用于货币数值的千位分隔符字元"
+msgstr "用于货币数值的千位分隔符字符"
 
 #: includes/admin/views/html-admin-page-status-report.php:312
 msgid "Active Plugins"
-msgstr "启用的外挂"
+msgstr "启用的插件"
 
 #: includes/admin/views/html-admin-page-status-report.php:336
 msgid "Visit plugin homepage"
-msgstr "前往外挂主页"
+msgstr "前往插件主页"
 
 #: includes/admin/views/html-admin-page-status-report.php:364
 msgid "Network enabled"
@@ -5859,19 +5859,19 @@ msgstr "你的网站是否启用 REST API?"
 
 #: includes/admin/views/html-admin-page-status-report.php:393
 msgid "Taxes Enabled"
-msgstr "税金已启用"
+msgstr "税费已启用"
 
 #: includes/admin/views/html-admin-page-status-report.php:394
 msgid "Does your site have taxes enabled?"
-msgstr "你的网站是否启用税金"
+msgstr "你的网站是否启用税费"
 
 #: includes/admin/views/html-admin-page-status-report.php:398
 msgid "Shipping Enabled"
-msgstr "运送已启用"
+msgstr "配送已启用"
 
 #: includes/admin/views/html-admin-page-status-report.php:399
 msgid "Does your site have shipping enabled?"
-msgstr "你的网站是否启用运送?"
+msgstr "你的网站是否启用配送?"
 
 #: includes/admin/views/html-admin-page-status-report.php:403
 msgid "Force SSL"
@@ -5885,7 +5885,7 @@ msgstr "你的网站是否强制 SSL 加密交易?"
 msgid ""
 "What currency prices are listed at in the catalog and which currency "
 "gateways will take payments in."
-msgstr "什麽币别会列在目录中以及哪一个付款金流将会处理付款."
+msgstr "什么币别会列在目录中以及哪一个付款网关将会处理付款."
 
 #: includes/admin/views/html-admin-page-status-report.php:414
 msgid "The position of the currency symbol."
@@ -5927,7 +5927,7 @@ msgstr "你的 WooCommerce 商店的 \"我的帐号\" 网址 (以及页面ID)"
 
 #: includes/admin/views/html-admin-page-status-report.php:482
 msgid "Page not set"
-msgstr "未设定页面"
+msgstr "未设置页面"
 
 #: includes/admin/views/html-admin-page-status-report.php:492
 msgid "Page does not exist"
@@ -5953,11 +5953,11 @@ msgstr "商品类型"
 
 #: includes/admin/views/html-admin-page-status-report.php:536
 msgid "Theme"
-msgstr "佈景主题"
+msgstr "主题"
 
 #: includes/admin/views/html-admin-page-status-report.php:569
 msgid "The name of the current active theme."
-msgstr "现用的佈景主题名称"
+msgstr "现用的主题名称"
 
 #: includes/admin/views/html-admin-page-status-report.php:573
 msgid "Version"
@@ -5965,7 +5965,7 @@ msgstr "版本"
 
 #: includes/admin/views/html-admin-page-status-report.php:574
 msgid "The installed version of the current active theme."
-msgstr "现用佈景主题安装的版本"
+msgstr "现用主题安装的版本"
 
 #: includes/admin/views/html-admin-page-status-report.php:579
 msgid "is available"
@@ -5977,15 +5977,15 @@ msgstr "作者网址"
 
 #: includes/admin/views/html-admin-page-status-report.php:585
 msgid "The theme developers URL."
-msgstr "佈景主题开发者网址"
+msgstr "主题开发者网址"
 
 #: includes/admin/views/html-admin-page-status-report.php:589
 msgid "Child Theme"
-msgstr "子佈景主题"
+msgstr "子主题"
 
 #: includes/admin/views/html-admin-page-status-report.php:590
 msgid "Displays whether or not the current theme is a child theme."
-msgstr "显示现用的佈景是否为子佈景主题"
+msgstr "显示现用的是否为子主题"
 
 #: includes/admin/views/html-admin-page-status-report.php:592
 msgid ""
@@ -5993,42 +5993,42 @@ msgid ""
 "personally we recommend using a child theme. See: <a href=\"%s\" target="
 "\"_blank\">How to create a child theme</a>"
 msgstr ""
-"如果你要修改 WooCommerce 或一个不是你自己建立的父佈景主题的话我们建议敷用子佈"
-"景主题. 请看: <a href=\"%s\" target=\"_blank\">如何建立一个子佈景主题</a>"
+"如果你要修改 WooCommerce 或一个不是你自己建立的父主题的话我们建议使用子"
+"主题. 请看: <a href=\"%s\" target=\"_blank\">如何建立一个子主题</a>"
 
 #: includes/admin/views/html-admin-page-status-report.php:600
 msgid "Parent Theme Name"
-msgstr "父佈景名称"
+msgstr "父主题名称"
 
 #: includes/admin/views/html-admin-page-status-report.php:601
 msgid "The name of the parent theme."
-msgstr "父佈景主题的名称"
+msgstr "父主题的名称"
 
 #: includes/admin/views/html-admin-page-status-report.php:605
 msgid "Parent Theme Version"
-msgstr "父佈景版本"
+msgstr "父主题版本"
 
 #: includes/admin/views/html-admin-page-status-report.php:606
 msgid "The installed version of the parent theme."
-msgstr "父佈景主题安装的版本"
+msgstr "父主题安装的版本"
 
 #: includes/admin/views/html-admin-page-status-report.php:610
 msgid "Parent Theme Author URL"
-msgstr "父佈景作者网址"
+msgstr "父主题作者网址"
 
 #: includes/admin/views/html-admin-page-status-report.php:611
 msgid "The parent theme developers URL."
-msgstr "父佈景主题开发者网址"
+msgstr "父主题开发者网址"
 
 #: includes/admin/views/html-admin-page-status-report.php:616
 msgid "WooCommerce Support"
-msgstr "WooCommerce 支援"
+msgstr "WooCommerce 支持"
 
 #: includes/admin/views/html-admin-page-status-report.php:617
 msgid ""
 "Displays whether or not the current active theme declares WooCommerce "
 "support."
-msgstr "显示目前现用佈景主题是否支援 WooCommerce"
+msgstr "显示目前现用主题是否支持 WooCommerce"
 
 #: includes/admin/views/html-admin-page-status-report.php:620
 msgid "Not Declared"
@@ -6036,13 +6036,13 @@ msgstr "未注明"
 
 #: includes/admin/views/html-admin-page-status-report.php:631
 msgid "Templates"
-msgstr "范本"
+msgstr "模板"
 
 #: includes/admin/views/html-admin-page-status-report.php:631
 msgid ""
 "This section shows any files that are overriding the default WooCommerce "
 "template pages."
-msgstr "此区段显示任何被置换为非预设的 WooCommerce 样板页面"
+msgstr "此区段显示任何被置换为非默认的 WooCommerce 样板页面"
 
 #: includes/admin/views/html-admin-page-status-report.php:668
 msgid ""
@@ -6068,21 +6068,21 @@ msgstr "工具"
 
 #: includes/admin/views/html-admin-page-status-tools.php:34
 msgid "Shipping Debug Mode"
-msgstr "运送侦错模式"
+msgstr "配送除错模式"
 
 #: includes/admin/views/html-admin-page-status-tools.php:40
 msgid "This tool will disable shipping rate caching."
-msgstr "这工具将会停用运送率快取"
+msgstr "这工具将会停用配送率快取"
 
 #: includes/admin/views/html-admin-page-status-tools.php:45
 msgid "Template Debug Mode"
-msgstr "范本侦错模式"
+msgstr "模板除错模式"
 
 #: includes/admin/views/html-admin-page-status-tools.php:51
 msgid ""
 "This tool will disable template overrides for logged-in administrators for "
 "debugging purposes."
-msgstr "为了侦错目的，这个工具将会为登入的管理员停用范本取代"
+msgstr "为了除错目的，这个工具将会为登入的管理员停用模板取代"
 
 #: includes/admin/views/html-admin-page-status-tools.php:56
 msgid "Uninstall on Delete"
@@ -6093,11 +6093,11 @@ msgid ""
 "This tool will delete all WooCommerce, Product and Order data when "
 "uninstalling via Plugins > Delete."
 msgstr ""
-"此工具将会在以 外挂 > 删除 解除安装时删除所有 WooCommerce 的商品及订单资料"
+"此工具将会在以 插件 > 删除 解除安装时删除所有 WooCommerce 的商品及订单资料"
 
 #: includes/admin/views/html-admin-page-status-tools.php:69
 msgid "Save Changes"
-msgstr "储存变更"
+msgstr "保存变更"
 
 #: includes/admin/views/html-admin-page-status.php:18
 msgid "Logs"
@@ -6105,7 +6105,7 @@ msgstr "记录"
 
 #: includes/admin/views/html-admin-settings.php:32
 msgid "Save changes"
-msgstr "储存修改"
+msgstr "保存修改"
 
 #: includes/admin/views/html-bulk-edit-product.php:26
 #: includes/admin/views/html-bulk-edit-product.php:50
@@ -6188,7 +6188,7 @@ msgstr "可见"
 #: includes/admin/views/html-bulk-edit-product.php:184
 #: includes/admin/views/html-quick-edit-product.php:141
 msgid "Catalog &amp; search"
-msgstr "型录 &amp; 搜寻"
+msgstr "目录 &amp; 搜索"
 
 #: includes/admin/views/html-bulk-edit-product.php:215
 #: includes/admin/views/html-quick-edit-product.php:159
@@ -6210,12 +6210,12 @@ msgid ""
 "want to continue editing the colors of your store we recommended that you "
 "install the replacement WooCommerce Colors plugin from WordPress.org."
 msgstr ""
-"<strong>前台样式选项已不再支援</strong> &#8211; 如果你要继续修改你的网站颜色"
+"<strong>前台样式选项已不再支持</strong> &#8211; 如果你要继续修改你的网站颜色"
 "的话，我们建议从 WordPress.org 安装替代的t WooCommerce Colors plugin."
 
 #: includes/admin/views/html-notice-frontend-colors.php:22
 msgid "Install the new WooCommerce Colors plugin"
-msgstr "安装新的 WooCommerce 色彩外挂"
+msgstr "安装新的 WooCommerce 色彩插件"
 
 #: includes/admin/views/html-notice-frontend-colors.php:22
 #: includes/admin/views/html-notice-template-check.php:14
@@ -6243,11 +6243,11 @@ msgid ""
 "com/document/template-structure/\" target=\"_blank\">learn more about "
 "WooCommerce Template Structure here</a>."
 msgstr ""
-"<strong>你的佈景主题包含有过时的 WooCommerce 范本档案複本</strong>  如果在前"
-"台发生功能性的问题的话，可是就是这个原因，请连络你的佈景主题开发者以取得协"
-"助。你可以到系统报表查看完整资讯或是 <a href=\"http://docs.woothemes.com/"
+"<strong>你的主题包含有过时的 WooCommerce 模板文件副本</strong>  如果在前"
+"台发生功能问题的话，可是就是这个原因，请联系你的主题开发者以取得帮"
+"助。你可以到系统报表查看完整信息或是 <a href=\"http://docs.woothemes.com/"
 "document/template-structure/\" target=\"_blank\">在此阅读更多关于 "
-"WooCommerce 范本结构</a>.资讯"
+"WooCommerce 模板结构</a>.信息"
 
 #: includes/admin/views/html-notice-theme-support.php:13
 msgid ""
@@ -6256,17 +6256,17 @@ msgid ""
 "which is totally free to download and designed specifically for use with "
 "WooCommerce :)"
 msgstr ""
-"<strong>你的佈景主题未宣称支援 WooCommerce</strong> &#8211; 请阅读我们的整合"
+"<strong>你的主题未支持 WooCommerce</strong> &#8211; 请阅读我们的整合"
 "指南或是看看我们的 %sStorefront%s 主题 它是特别为 WooCommerce 量身订作而且可"
 "以免费下载  :)"
 
 #: includes/admin/views/html-notice-theme-support.php:15
 msgid "Find out more about Storefront"
-msgstr "更详细瞭解 Storefront"
+msgstr "更详细了解 Storefront"
 
 #: includes/admin/views/html-notice-theme-support.php:16
 msgid "Theme integration guide"
-msgstr "佈景主题整合指南"
+msgstr "主题整合指南"
 
 #: includes/admin/views/html-notice-tracking.php:10
 msgid ""
@@ -6274,8 +6274,8 @@ msgid ""
 "non-sensitive diagnostic data and usage information, and get %s discount on "
 "your next WooThemes purchase. %sFind out more%s."
 msgstr ""
-"想要帮忙让 WooCommerce 更棒吗？允许 WooCommerce 收集非敏感的测试资料及使用资"
-"讯，并且可以在你下一次购买 WooTheme 产品的时候得到 %s 的折扣。%s瞭解更详细内"
+"想要帮忙让 WooCommerce 更棒吗？允许 WooCommerce 收集非敏感的测试资料及使用信"
+"息，并且可以在你下一次购买 WooTheme 产品的时候得到 %s 的折扣。%s了解更详细内"
 "容%s"
 
 #: includes/admin/views/html-notice-tracking.php:13
@@ -6301,7 +6301,7 @@ msgstr "强制更新翻译"
 
 #: includes/admin/views/html-notice-translation-upgrade.php:21
 msgid "Hide This Message"
-msgstr "隐藏此一讯息"
+msgstr "隐藏此一信息"
 
 #: includes/admin/views/html-notice-update.php:13
 msgid ""
@@ -6319,7 +6319,7 @@ msgstr "执行更新程序"
 msgid ""
 "It is strongly recommended that you backup your database before proceeding. "
 "Are you sure you wish to run the updater now?"
-msgstr "强烈建议你在执行之前先备份你的资料库，你确定现在要更新吗？"
+msgstr "强烈建议你在执行之前先备份你的数据库，你确定现在要更新吗？"
 
 #: includes/admin/views/html-quick-edit-product.php:35
 msgid "Regular price"
@@ -6339,7 +6339,7 @@ msgstr "http://www.woothemes.com/woocommerce/"
 
 #. Description of the plugin/theme
 msgid "An e-commerce toolkit that helps you sell anything. Beautifully."
-msgstr "一个可以帮助你在网路上卖东西的电子商务工具程式，水啦！"
+msgstr "一个可以帮助你在网络卖东西的电子商务工具！"
 
 #. Author of the plugin/theme
 msgid "WooThemes"
@@ -6407,7 +6407,7 @@ msgstr "载入更多结果&hellip;"
 #: includes/admin/class-wc-admin-assets.php:113
 msgctxt "enhanced select"
 msgid "Searching&hellip;"
-msgstr "搜寻中&hellip;"
+msgstr "搜索中&hellip;"
 
 #: includes/admin/class-wc-admin-menus.php:144
 msgctxt "Admin menu name"
@@ -6422,7 +6422,7 @@ msgstr "商品分类"
 #: includes/admin/class-wc-admin-permalink-settings.php:78
 msgctxt "slug"
 msgid "product-tag"
-msgstr "商品标籤"
+msgstr "商品标签"
 
 #: includes/admin/class-wc-admin-permalink-settings.php:191
 msgctxt "slug"
@@ -6541,7 +6541,7 @@ msgstr "由 %s"
 #: includes/admin/views/html-admin-page-status-report.php:443
 msgctxt "Page setting"
 msgid "Shop Base"
-msgstr "商店起点"
+msgstr "商店依据"
 
 #: includes/admin/views/html-admin-page-status-report.php:448
 msgctxt "Page setting"
@@ -6556,10 +6556,9 @@ msgstr "结帐"
 #: includes/admin/views/html-admin-page-status-report.php:458
 msgctxt "Page setting"
 msgid "My Account"
-msgstr "帐号设定"
+msgstr "帐号设置"
 
 #: includes/admin/views/html-admin-page-status-report.php:472
 msgctxt "WC Pages links in the System Status"
 msgid "Edit %s page"
 msgstr "编辑 %s 页面"
-
