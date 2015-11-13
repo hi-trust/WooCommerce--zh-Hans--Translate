@@ -2,6 +2,10 @@
 * 将繁体中文部分转换为简体中文
 * 感谢所有译者的贡献
 * 修正部分翻译错误
+
+## 使用
+* 下载zip文件并解压缩
+* 使用 [Podedit](http://poedit.net/) 打开`woocommerce-zh_CN.po`，再直接保存就能自动转换成`woocommerce-zh_CN.mo`
 * 在`/wp-content/languages/`下新建`woocommerce`文件夹，即`/wp-content/languages/woocommerce/`
 * 将 `.po`及`.mo`上传至目录`/wp-content/languages/woocommerce/`
 
