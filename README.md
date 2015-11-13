@@ -9,7 +9,7 @@
 * 在`/wp-content/languages/`下新建`woocommerce`文件夹，即`/wp-content/languages/woocommerce/`
 * 将 `.po`及`.mo`上传至目录`/wp-content/languages/woocommerce/`
 
-## WooCommerce 中文翻译修正版（以下为繁体中文使用说明）
+## WooCommerce 中文翻译修正版（以下为繁体中文说明）
  改进一些台湾中文的翻译问题
  
 #### 使用
